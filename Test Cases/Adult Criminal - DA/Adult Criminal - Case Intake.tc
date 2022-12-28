@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Case in MCDA.</description>
+   <name>Adult Criminal - Case Intake</name>
+   <tag>@ Adult Criminal Case Intake</tag>
+   <comment></comment>
+   <testCaseGuid>2d6104c3-3cde-41f7-9e96-4e3e19355758</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>app-root_Processing request .Skip to main c_c3058f_1</name>
+   <tag></tag>
+   <elementGuidId>b77797d0-d2a3-4b57-add5-68070bfe6533</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>app-root</value>
+      <webElementGuid>b2a4920a-7a3d-4ad7-8a36-b845fc986c05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-version</name>
+      <type>Main</type>
+      <value>13.1.3</value>
+      <webElementGuid>21937afe-94fb-445a-9512-1af09110fccf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate29Notifications214Press Enter to open the Dialog box and then use navigation keys to navigate214balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHomeCaseCase Intake  - Adult CriminalPrintSaveCancel×1Incidents2Case Information3Participants4Charges5Assigned Staff6ReviewLEA # *Offense From Date *ui-btnOffense To Dateui-btnLEA *SelectAdult and Family Services Adult and Family ServicesFactsLocation DescriptionNotesAttachments Add Attachments  Doc Type   Document Title   Uploaded   Status  Doc Type:  Police Report  Document Title:  Document Title  Uploaded:  12/21/2022 01:19 PM Status:  Pending  Expansion LinkAddress Details Add Address  No Records found Add Address   Hidden TextNo AddressAddress Line 1*Address Line 2Address Line 3Zip*City*SelectSelectCounty*SelectSelectState*SelectOR ORCountry*SelectUnited States United StatesCommentsSaveCancelSaveCancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.</value>
+      <webElementGuid>3e9d6915-f032-405d-91ee-d4e4c04487a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]</value>
+      <webElementGuid>81ed57cf-c7ca-4152-9ef9-6c1632355ef4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-root</value>
+      <webElementGuid>ffa477e5-608f-48e3-8eb5-3467dd6ae6d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//app-root[(text() = 'Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate29Notifications214Press Enter to open the Dialog box and then use navigation keys to navigate214balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHomeCaseCase Intake  - Adult CriminalPrintSaveCancel×1Incidents2Case Information3Participants4Charges5Assigned Staff6ReviewLEA # *Offense From Date *ui-btnOffense To Dateui-btnLEA *SelectAdult and Family Services Adult and Family ServicesFactsLocation DescriptionNotesAttachments Add Attachments  Doc Type   Document Title   Uploaded   Status  Doc Type:  Police Report  Document Title:  Document Title  Uploaded:  12/21/2022 01:19 PM Status:  Pending  Expansion LinkAddress Details Add Address  No Records found Add Address   Hidden TextNo AddressAddress Line 1*Address Line 2Address Line 3Zip*City*SelectSelectCounty*SelectSelectState*SelectOR ORCountry*SelectUnited States United StatesCommentsSaveCancelSaveCancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.' or . = 'Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate29Notifications214Press Enter to open the Dialog box and then use navigation keys to navigate214balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHomeCaseCase Intake  - Adult CriminalPrintSaveCancel×1Incidents2Case Information3Participants4Charges5Assigned Staff6ReviewLEA # *Offense From Date *ui-btnOffense To Dateui-btnLEA *SelectAdult and Family Services Adult and Family ServicesFactsLocation DescriptionNotesAttachments Add Attachments  Doc Type   Document Title   Uploaded   Status  Doc Type:  Police Report  Document Title:  Document Title  Uploaded:  12/21/2022 01:19 PM Status:  Pending  Expansion LinkAddress Details Add Address  No Records found Add Address   Hidden TextNo AddressAddress Line 1*Address Line 2Address Line 3Zip*City*SelectSelectCounty*SelectSelectState*SelectOR ORCountry*SelectUnited States United StatesCommentsSaveCancelSaveCancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.')]</value>
+      <webElementGuid>86a254a6-e2ad-4cd0-a85c-293386347987</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

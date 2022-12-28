@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_6Review</name>
+   <tag></tag>
+   <elementGuidId>0ad07c08-ab2d-40aa-964e-d8168876c698</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div/div/div/roots-steps/div/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.ng-star-inserted.ui-state-highlight.ui-steps-current.ui-steps-item > a.ui-menuitem-link.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a5be6bab-246a-4e9c-a3cc-b06d4b593392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-menuitem-link ng-star-inserted</value>
+      <webElementGuid>1e19a469-4133-4485-a7e6-c1c768f58f8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>3eabc445-fdb0-450d-8025-58150bcc1c16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>0d6d3cdc-3064-4c7d-9a34-d4b5115f3ea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6Review</value>
+      <webElementGuid>3a3345d7-8e35-45f7-84b1-501a1bfe96af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[1]/app-case-intake[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;d-block d-md-flex bg-white mb-3&quot;]/div[@class=&quot;flex-fill h-100 bg-white pb-3&quot;]/div[@class=&quot;bg-white mb-3&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/roots-steps[1]/div[@class=&quot;ui-steps ui-widget ui-helper-clearfix&quot;]/ul[1]/li[@class=&quot;ng-star-inserted ui-state-highlight ui-steps-current ui-steps-item&quot;]/a[@class=&quot;ui-menuitem-link ng-star-inserted&quot;]</value>
+      <webElementGuid>1c960b97-7ff8-444c-9885-795351f1a038</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div/div/div/roots-steps/div/ul/li[6]/a</value>
+      <webElementGuid>dcfae465-d43b-432f-8dc6-43dd7f0d9e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned Staff'])[1]/following::a[1]</value>
+      <webElementGuid>9ed65a3d-9793-4495-91ca-e990ce9393ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Charges'])[1]/following::a[2]</value>
+      <webElementGuid>7a8f6e4b-23e4-4208-b76c-a7ecf84f6992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offense Category:'])[1]/preceding::a[1]</value>
+      <webElementGuid>4d47781d-a663-4758-b82b-86bbdb695507</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[29]</value>
+      <webElementGuid>134d3416-4f5c-40ea-b508-e3c825ef6850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//roots-steps/div/ul/li[6]/a</value>
+      <webElementGuid>d578bb17-42d4-43e9-b260-f5a4af1341c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '6Review' or . = '6Review')]</value>
+      <webElementGuid>9690cc0b-8e75-454b-9e7a-772505dde6ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

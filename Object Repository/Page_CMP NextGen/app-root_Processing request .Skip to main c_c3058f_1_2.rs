@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>app-root_Processing request .Skip to main c_c3058f_1_2</name>
+   <tag></tag>
+   <elementGuidId>9c5b2732-4ac1-4ae7-b2c8-9b1ea38d36fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>app-root</value>
+      <webElementGuid>4a7b84b9-3b5a-401b-9cbc-39d8271d1160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-version</name>
+      <type>Main</type>
+      <value>13.1.3</value>
+      <webElementGuid>199ca530-1b2c-475d-a3f8-85eec45082c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate29Notifications214Press Enter to open the Dialog box and then use navigation keys to navigate214balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHomeCaseCase Intake  - Adult CriminalPrintSaveCancel×1Incidents2Case Information3Participants4Charges5Assigned Staff6ReviewLEA # *Offense From Date *ui-btnOffense To Dateui-btnLEA *SelectAdult and Family Services Adult and Family ServicesFactsLocation DescriptionNotesAttachments Add Attachments  Doc Type   Document Title   Uploaded   Status  Doc Type:  Police Report  Document Title:  Document Title  Uploaded:  12/21/2022 01:19 PM Status:  Pending  Expansion LinkAddress Details Add Address Address Line1, Adair Village, OR, United States, 97330, Benton(12/21/2022)Expansion LinkAdd Address   Hidden TextNo AddressAddress Line 1*Address Line 2Address Line 3Zip*City*SelectSelectCounty*SelectSelectState*SelectOR ORCountry*SelectUnited States United StatesCommentsSaveCancelSaveCancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.</value>
+      <webElementGuid>90c95d5c-abaf-4e48-b026-4a114362b2c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]</value>
+      <webElementGuid>1d7c0a56-9816-4b86-a0ff-a951cd2a55a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-root</value>
+      <webElementGuid>56521f18-bc54-4dca-9fbb-7d2d4d069c9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//app-root[(text() = 'Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate29Notifications214Press Enter to open the Dialog box and then use navigation keys to navigate214balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHomeCaseCase Intake  - Adult CriminalPrintSaveCancel×1Incidents2Case Information3Participants4Charges5Assigned Staff6ReviewLEA # *Offense From Date *ui-btnOffense To Dateui-btnLEA *SelectAdult and Family Services Adult and Family ServicesFactsLocation DescriptionNotesAttachments Add Attachments  Doc Type   Document Title   Uploaded   Status  Doc Type:  Police Report  Document Title:  Document Title  Uploaded:  12/21/2022 01:19 PM Status:  Pending  Expansion LinkAddress Details Add Address Address Line1, Adair Village, OR, United States, 97330, Benton(12/21/2022)Expansion LinkAdd Address   Hidden TextNo AddressAddress Line 1*Address Line 2Address Line 3Zip*City*SelectSelectCounty*SelectSelectState*SelectOR ORCountry*SelectUnited States United StatesCommentsSaveCancelSaveCancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.' or . = 'Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate29Notifications214Press Enter to open the Dialog box and then use navigation keys to navigate214balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHomeCaseCase Intake  - Adult CriminalPrintSaveCancel×1Incidents2Case Information3Participants4Charges5Assigned Staff6ReviewLEA # *Offense From Date *ui-btnOffense To Dateui-btnLEA *SelectAdult and Family Services Adult and Family ServicesFactsLocation DescriptionNotesAttachments Add Attachments  Doc Type   Document Title   Uploaded   Status  Doc Type:  Police Report  Document Title:  Document Title  Uploaded:  12/21/2022 01:19 PM Status:  Pending  Expansion LinkAddress Details Add Address Address Line1, Adair Village, OR, United States, 97330, Benton(12/21/2022)Expansion LinkAdd Address   Hidden TextNo AddressAddress Line 1*Address Line 2Address Line 3Zip*City*SelectSelectCounty*SelectSelectState*SelectOR ORCountry*SelectUnited States United StatesCommentsSaveCancelSaveCancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.')]</value>
+      <webElementGuid>97080fde-3c55-4809-b0a3-bacdf12acc9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

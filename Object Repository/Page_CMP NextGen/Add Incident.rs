@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Add Incident</name>
+   <tag></tag>
+   <elementGuidId>0216dddc-096a-4862-851c-d6277a4293e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='addIncident']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#addIncident</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3f0a30d2-1424-4129-b404-c6b5458316ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addIncident</value>
+      <webElementGuid>cd074c7a-b6e9-42d3-8c15-6fb902493e95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-2 mb-md-0 ml-sm-auto font-weight-bold text-primary mb-0 p-0 bg-white border-0 text-right</value>
+      <webElementGuid>fc5c1fe5-f58e-450c-88e4-7ce768116e40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Incident</value>
+      <webElementGuid>72a63d14-36d5-446c-8d1f-1764de84819e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addIncident&quot;)</value>
+      <webElementGuid>d3585c30-a267-4b6f-a457-bef16b184c33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='addIncident']</value>
+      <webElementGuid>3521ff84-7e07-4159-9d6d-bba7c275086c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/app-caseintake-incident-information/div/div/button</value>
+      <webElementGuid>1a4f9858-2543-441f-b4b5-15cb91ff6f40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review'])[1]/following::button[1]</value>
+      <webElementGuid>b808336e-ed64-4f77-8319-0c161e96cad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assigned Staff'])[1]/following::button[1]</value>
+      <webElementGuid>8bcbedf5-3e2b-41aa-95ad-7c2d26d1f011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required Information'])[1]/preceding::button[1]</value>
+      <webElementGuid>81efca2b-3dc3-40bb-9834-18515f07a2e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add at least one incident'])[1]/preceding::button[1]</value>
+      <webElementGuid>d012bdd1-b368-46dd-85da-3745126b7d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Incident']/parent::*</value>
+      <webElementGuid>a0d98207-1a85-4555-8819-b9c6b82e793b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-caseintake-incident-information/div/div/button</value>
+      <webElementGuid>23a404ba-a047-4439-9be0-34b45b1ffc36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'addIncident' and (text() = 'Add Incident' or . = 'Add Incident')]</value>
+      <webElementGuid>dd13bf04-6483-4d8a-ae4d-d616f231fcf4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
