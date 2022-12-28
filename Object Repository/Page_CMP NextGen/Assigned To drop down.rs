@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/div/app-assigned-staff/roots-dialog/div/div[2]/form/div/div/div[3]/div/roots-dropdown/div/div[3]/label</value>
+         <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/div/app-assigned-staff/roots-dialog/div/div[2]/form/div/div/div[3]/div/roots-dropdown/div/div[4]/span</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[(text() = 'Select' or . = 'Select')]</value>
+         <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/div/app-assigned-staff/roots-dialog/div/div[2]/form/div/div/div[3]/div/roots-dropdown/div/div[4]/span</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>b647884c-8b28-438b-9a5f-09341a85391d</webElementGuid>
+      <webElementGuid>e4e219fb-2c55-4b70-ba80-65a96dbfa940</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,23 +34,23 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-tns-c48-22 ui-dropdown-label ui-inputtext ui-corner-all ui-placeholder ng-star-inserted</value>
-      <webElementGuid>25bb187c-6ab7-45f8-b105-fb2780cf6ed0</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Select</value>
-      <webElementGuid>a2d6e2ef-9b99-464f-8358-2a4af86b98a2</webElementGuid>
+      <webElementGuid>23a28cb3-bf69-4db0-ae1c-88bc1cdd2924</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>67dfd48e-7d1e-418a-97ca-d40a28fd105d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[1]/app-case-intake[@class=&quot;ng-star-inserted&quot;]/roots-dialog[@class=&quot;ng-tns-c50-21 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c50-21 col-xl-4 col-lg-4 col-md-4 px-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c50-21&quot;]/div[@class=&quot;row ng-tns-c50-21&quot;]/div[@class=&quot;col-sm-12&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;roots-form-control ng-tns-c48-22 ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/div[@class=&quot;ng-tns-c48-22 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-clearable&quot;]/div[@class=&quot;ui-dropdown-label-container ng-tns-c48-22&quot;]/label[@class=&quot;ng-tns-c48-22 ui-dropdown-label ui-inputtext ui-corner-all ui-placeholder ng-star-inserted&quot;]</value>
-      <webElementGuid>8c304c6c-8087-4c59-bfd4-1d5f263e6047</webElementGuid>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/div/app-assigned-staff/roots-dialog/div/div[2]/form/div/div/div[3]/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>932390c8-8f90-48fc-88b5-2de5d9c1c6b3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='test']/div/div/form/div/div/div[2]/div/div[4]/div/roots-dropdown/div/div[4]/span</value>
-      <webElementGuid>dfb29c55-f9c7-4a32-9bbb-9a5e84c86bdd</webElementGuid>
+      <webElementGuid>33e4ccdf-f269-4abc-b079-7bab82d508c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::label[1]</value>
-      <webElementGuid>a64d9d86-fcf1-4f56-8f69-837716fafe07</webElementGuid>
+      <webElementGuid>489b47d4-78f4-4b6b-a057-cfb7657e0f10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::label[1]</value>
-      <webElementGuid>37a1f089-2f3b-42f1-a20c-1fdc7ae2ef77</webElementGuid>
+      <webElementGuid>8bae87ab-256c-49f4-a484-c19576804ac0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/roots-dropdown/div/div[3]/label</value>
-      <webElementGuid>d6a0d594-7130-45f9-8dc8-fa10bbee8f06</webElementGuid>
+      <webElementGuid>c70da88d-3dfe-44aa-9f72-db48cd0fbd65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,6 +90,20 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Select' or . = 'Select')]</value>
-      <webElementGuid>8d0b8cdc-a5c1-44ab-aed8-2a31361fbc11</webElementGuid>
+      <webElementGuid>52173564-d02f-4cbd-b974-4fac9a30812e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case-intake/div[2]/div/div/div/div/div/div[2]/div/div/div/div/app-assigned-staff/roots-dialog/div/div[2]/form/div/div/div[3]/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>f3eb42ef-88f0-4c34-aec4-30bbad5ddb1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>/html/body/app-root/div/app-home/main/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-details/div[2]/div[3]/app-assigned-staff/roots-dialog/div/div[2]/form/div/div/div[3]/div/roots-dropdown/div/div[4]/span</value>
+      <webElementGuid>bc9392d8-adc0-4a49-b798-0fdc53f72c56</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

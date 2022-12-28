@@ -11,13 +11,13 @@
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[(text() = 'Unit' or . = 'Unit')]</value>
+         <value>//li[@aria-label='Unit']</value>
       </entry>
       <entry>
          <key>CSS</key>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -25,7 +25,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4258a1c5-dd88-4991-99dc-deb9ecc692eb</webElementGuid>
+      <webElementGuid>c796094f-a2e3-461b-9e0c-e49ac2edce86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,23 +33,23 @@
       <name>class</name>
       <type>Main</type>
       <value>ng-star-inserted</value>
-      <webElementGuid>54303517-04e4-44df-b9ab-e48c789ed533</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Unit</value>
-      <webElementGuid>524f1386-924a-46a9-a15d-32e6417ea42b</webElementGuid>
+      <webElementGuid>d1d195b6-7fe9-4bef-998f-95fde4427e95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unit</value>
+      <webElementGuid>377746d4-d506-4e35-8e6c-72cedd48d882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[1]/app-case-intake[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[1]/div[@class=&quot;d-block d-md-flex bg-white mb-3&quot;]/div[@class=&quot;flex-fill h-100 bg-white pb-3 caseIntakePage-cont&quot;]/div[@class=&quot;bg-white mb-3&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;d-block d-md-flex&quot;]/div[@class=&quot;row flex-fill h-100 bg-white position-relative caseIntakePage-cont&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/div[@class=&quot;mb-2 ng-star-inserted&quot;]/app-assigned-staff[1]/roots-dialog[@class=&quot;ng-tns-c50-205 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c50-205 col-md-10 col-lg-10 col-xl-8 px-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c50-205&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-tns-c50-205 ng-touched&quot;]/div[@class=&quot;roots-form-control&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;select-option ng-tns-c48-206 ng-pristine ng-invalid ng-star-inserted ng-touched&quot;]/div[@class=&quot;ng-tns-c48-206 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-open ui-dropdown-clearable&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c48-206 ui-dropdown-panel ui-widget ui-widget-content ui-corner-all ui-shadow ng-star-inserted&quot;]/div[@class=&quot;ui-dropdown-items-wrapper ng-tns-c48-206&quot;]/ul[@class=&quot;ui-dropdown-items ui-dropdown-list ui-widget-content ui-widget ui-corner-all ui-helper-reset ng-tns-c48-206&quot;]/roots-dropdownitem[@class=&quot;ng-tns-c48-206 ng-star-inserted&quot;]/li[@class=&quot;ui-dropdown-item ui-corner-all&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
-      <webElementGuid>e61ec480-6cf1-45d8-bf29-5d2c8737b019</webElementGuid>
+      <value>//li[@aria-label='Unit']</value>
+      <webElementGuid>fcf5bd7d-fca3-4ebd-9bce-b6609146bf94</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[normalize-space()='Unit']</value>
-      <webElementGuid>a0854ff2-cc52-4acf-9c19-6567a31babd9</webElementGuid>
+      <webElementGuid>81b433f6-9b44-4e31-86ee-d5c6c7a60f8b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Deputy District Attorney'])[1]/following::span[1]</value>
-      <webElementGuid>07b4d442-494c-437c-9c58-1996df58dc9f</webElementGuid>
+      <webElementGuid>0db17747-2a73-4315-855c-52a00f5bc15e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[6]/following::span[3]</value>
-      <webElementGuid>8f37b582-914f-4a68-a4b6-1ab570a7cbf4</webElementGuid>
+      <webElementGuid>129cb65f-a43f-485f-a931-f8c97ad7fc11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Staff'])[1]/preceding::span[1]</value>
-      <webElementGuid>d102c26c-e805-4beb-b381-c7fa4120f2d4</webElementGuid>
+      <webElementGuid>e8f63fea-a47e-488d-8fd3-0bf526298802</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Victim Advocate'])[1]/preceding::span[2]</value>
-      <webElementGuid>7e739a5b-f931-411d-b771-b2e7c2648729</webElementGuid>
+      <webElementGuid>e5e840ac-e1bc-4a5a-b9cd-cab93e25528e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Unit']/parent::*</value>
-      <webElementGuid>7a3f4e65-ae41-425a-8bc6-f392a2cbd3bf</webElementGuid>
+      <webElementGuid>06e55222-ca16-4f08-b749-5acb68829600</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//roots-dropdownitem[2]/li/span</value>
-      <webElementGuid>66a3128c-3bee-47e7-9e91-d308de9b29dd</webElementGuid>
+      <webElementGuid>b7e9205d-3a8b-4ebc-92b1-1eede54af5e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,6 +113,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Unit' or . = 'Unit')]</value>
-      <webElementGuid>252861c6-2d20-481c-91ae-c76b935f9cb4</webElementGuid>
+      <webElementGuid>08f87e66-3088-407f-8f5b-9d1f5f404b4b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
