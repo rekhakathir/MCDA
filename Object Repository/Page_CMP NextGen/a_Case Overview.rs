@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Case Overview</name>
+   <tag></tag>
+   <elementGuidId>3d1d5800-6193-4fb9-a4ef-f9ee2e8126bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//roots-scrollpanel[@id='sideBar']/div/div/div/ul/li/div/label/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.text-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>89da936f-ffec-442e-8250-4958d3fab2ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/home/case360/3812/overview</value>
+      <webElementGuid>74d72a68-c3c7-4793-9c76-99e5efd619e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-primary</value>
+      <webElementGuid>9e669cb8-0832-46b6-82d3-9f8c8604449d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Case Overview</value>
+      <webElementGuid>a4dc6a97-36af-44a9-a9e4-18b024290e8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sideBar&quot;)/div[@class=&quot;custom-sideBar ui-scrollpanel ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;ui-scrollpanel-wrapper&quot;]/div[@class=&quot;ui-scrollpanel-content&quot;]/ul[@class=&quot;border-top ng-star-inserted&quot;]/li[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex align-items-center my-2 mx-3&quot;]/label[@class=&quot;mb-0 ng-star-inserted&quot;]/a[@class=&quot;text-primary&quot;]</value>
+      <webElementGuid>1c5954d7-3378-4027-83a8-2893545f03f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//roots-scrollpanel[@id='sideBar']/div/div/div/ul/li/div/label/a</value>
+      <webElementGuid>24648861-4f81-41f0-a4bc-29d11c9aa6c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Case Overview')]</value>
+      <webElementGuid>7919ad47-8b50-4b80-8761-f507c98f3654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Issuing Decision for Custody Case 12/29/2022'])[1]/following::a[1]</value>
+      <webElementGuid>8e371ee5-b844-479c-9c4e-eb9691fd4744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next Up:'])[1]/following::a[1]</value>
+      <webElementGuid>742edac5-47e9-4f31-91fb-8c10e7d73f41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participants'])[1]/preceding::a[1]</value>
+      <webElementGuid>0484fa51-6bc5-443d-bf9a-f959b7cabe6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Charges'])[1]/preceding::a[2]</value>
+      <webElementGuid>c83f2f6c-813f-4950-bc20-5bc8b5d9ca8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Case Overview']/parent::*</value>
+      <webElementGuid>0db7b3e2-175c-49ff-8030-961f6ad4911e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/home/case360/3812/overview')]</value>
+      <webElementGuid>3bf78357-66c3-4d54-a7db-4102c03adc6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/a</value>
+      <webElementGuid>858fae33-7edf-4810-809e-42c26bcc7471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/home/case360/3812/overview' and (text() = 'Case Overview' or . = 'Case Overview')]</value>
+      <webElementGuid>35521dc4-37eb-4840-81d0-b10583777782</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

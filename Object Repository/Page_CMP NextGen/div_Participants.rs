@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Participants</name>
+   <tag></tag>
+   <elementGuidId>4ef65b7b-5ce8-4c31-88d1-0ecae9717e6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-26']/div/roots-header/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>roots-header.w-100.ng-tns-c76-95 > div.d-flex > div.font-weight-bold.text-black</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0597637f-2e07-41ef-88a2-5a6bf4425608</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold text-black</value>
+      <webElementGuid>3f0398d8-e4a7-431b-8b42-6e819b2e677b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Participants</value>
+      <webElementGuid>a67990d1-a13a-4be4-92a6-fa455bb5de70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-26&quot;)/div[@class=&quot;ng-tns-c76-95 ui-panel-titlebar ui-widget-header ui-helper-clearfix ui-corner-all ng-star-inserted&quot;]/roots-header[@class=&quot;w-100 ng-tns-c76-95&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;font-weight-bold text-black&quot;]</value>
+      <webElementGuid>1749bcc8-1ff9-477f-92e0-8b554eb31466</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-26']/div/roots-header/div/div</value>
+      <webElementGuid>6e0615c4-3c95-407e-b172-4cfaef2e0bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[10]/following::div[8]</value>
+      <webElementGuid>3dc5a674-93bb-4381-958d-0898700a936e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Summary'])[1]/following::div[11]</value>
+      <webElementGuid>c5ed5662-9306-4cac-b2a3-978268875981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participants Summary'])[1]/preceding::div[1]</value>
+      <webElementGuid>a6f4687a-f331-4d63-8adb-6971952118f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-case360-participant/div/div/roots-panel/div/div/roots-header/div/div</value>
+      <webElementGuid>ebca006c-b70b-4c1c-a233-e610571af404</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Participants' or . = 'Participants')]</value>
+      <webElementGuid>15b254ff-646e-49f6-b8b0-c30cd66f0456</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

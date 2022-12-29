@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Events</name>
+   <tag></tag>
+   <elementGuidId>dca98c1e-7f3f-4f92-ae87-cae0f8e16d54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ui-panel-9&quot;]/div[1]/roots-header/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>roots-header.w-100.ng-tns-c76-94 > div.d-flex > div.font-weight-bold.text-black</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bd7c8a31-3ef7-477e-8354-fbf23dd3968e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold text-black</value>
+      <webElementGuid>e019be88-c73f-494a-ba4f-f77b6b03eb84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Events</value>
+      <webElementGuid>4689c28b-a24c-4d2c-a4a8-6c4fcc8479bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-25&quot;)/div[@class=&quot;ng-tns-c76-94 ui-panel-titlebar ui-widget-header ui-helper-clearfix ui-corner-all ng-star-inserted&quot;]/roots-header[@class=&quot;w-100 ng-tns-c76-94&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;font-weight-bold text-black&quot;]</value>
+      <webElementGuid>86f890b7-60f6-493b-a7d0-6b99037790e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-25']/div/roots-header/div/div</value>
+      <webElementGuid>b873b797-3543-43e1-8c9d-bbeb992e0dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add File location'])[1]/following::div[5]</value>
+      <webElementGuid>c36a49b2-e366-4e9d-8889-4dc1b367d013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next Event:'])[1]/preceding::div[1]</value>
+      <webElementGuid>4382bc20-0698-4315-a07e-4a7707f90918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[5]/preceding::div[1]</value>
+      <webElementGuid>fbc1c9c6-f879-4480-9791-5fee19bc1c14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/roots-panel/div/div/roots-header/div/div</value>
+      <webElementGuid>d053690b-fdcf-47ec-9996-bd9b7180f267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Events' or . = 'Events')]</value>
+      <webElementGuid>06d31835-bea9-4264-9aa7-6fe8b39a685a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

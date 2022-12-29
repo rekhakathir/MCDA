@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Incidents</name>
+   <tag></tag>
+   <elementGuidId>06e5eab7-eb7c-4ad7-98ae-5b5858f2dc31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-20']/div/roots-header/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>roots-header.w-100.ng-tns-c76-85 > div.d-flex > div.font-weight-bold.text-black</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e0e25734-1456-4a83-9179-d9f0297c69fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold text-black</value>
+      <webElementGuid>098829eb-125a-45a6-8a94-6c44fd35d114</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Incidents</value>
+      <webElementGuid>4faa0405-4e62-4eef-b7ed-ec4357f92e44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-20&quot;)/div[@class=&quot;ng-tns-c76-85 ui-panel-titlebar ui-widget-header ui-helper-clearfix ui-corner-all ng-star-inserted&quot;]/roots-header[@class=&quot;w-100 ng-tns-c76-85&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;font-weight-bold text-black&quot;]</value>
+      <webElementGuid>da73ae80-2864-4f34-b840-4fecdcc1b86b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-20']/div/roots-header/div/div</value>
+      <webElementGuid>03c9de7f-5a16-4993-adc4-507f4ee38923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Added'])[1]/following::div[8]</value>
+      <webElementGuid>45b9dcb5-7f9e-4038-b036-0069a888df28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Created'])[1]/following::div[14]</value>
+      <webElementGuid>f61e4a70-90c0-4482-925e-96b755b5da1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LEA #'])[2]/preceding::div[1]</value>
+      <webElementGuid>91875a90-07c8-4e1f-8fe0-65d21bca2025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offense From Date'])[1]/preceding::div[1]</value>
+      <webElementGuid>394c02e9-171e-4a37-b8e7-91afa8502c4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/roots-panel/div/div/roots-header/div/div</value>
+      <webElementGuid>474b3156-4c29-4e2f-9f51-75cf940a414c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Incidents' or . = 'Incidents')]</value>
+      <webElementGuid>52f56cb7-4c1c-4a77-a869-8b16fa71c8c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

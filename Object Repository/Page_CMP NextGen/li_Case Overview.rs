@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Case Overview</name>
+   <tag></tag>
+   <elementGuidId>51049d37-a754-4863-815d-948fd6893a6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu_ul']/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>77284098-a4ab-4f49-9e73-8d3d9956d4fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active</value>
+      <webElementGuid>f5027bc5-f954-4bb5-9825-f3dd171feb79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Case Overview</value>
+      <webElementGuid>18035cc7-e157-42f3-bddb-48517d8a72e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_ul&quot;)/li[@class=&quot;active&quot;]</value>
+      <webElementGuid>9f429b91-efc8-4bcc-9c62-333098c4fdc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu_ul']/li</value>
+      <webElementGuid>a12e35f3-6226-407e-b1ef-2519da65b6ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type or press Enter to show the case participants'])[1]/following::li[1]</value>
+      <webElementGuid>6c117309-e627-40e5-8a92-7da4612df320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Participants'])[1]/following::li[1]</value>
+      <webElementGuid>1a726b90-f464-4d13-8ee0-fe8957a6e90c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Details'])[1]/preceding::li[1]</value>
+      <webElementGuid>453e8a5a-610c-4c7b-af5e-68c7740d2139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show All'])[1]/preceding::li[1]</value>
+      <webElementGuid>e25edac3-b5f4-4ffb-bf10-6a20926ed754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-case360-overview/div/ul/li</value>
+      <webElementGuid>b867f653-65a7-4797-8d06-dfc9e03a1324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Case Overview' or . = 'Case Overview')]</value>
+      <webElementGuid>056e077d-bfe6-4671-9577-4c5e6de47545</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
