@@ -7,19 +7,18 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Advance Filter'])[1]/following::div[9]
-</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//h5[@class='mb-0 font-weight-bold']</value>
+         <value>//div[(text() = 'Intake' or . = 'Intake')]</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.ui-toast-summary.ng-tns-c67-187</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//h5[@class='mb-0 font-weight-bold']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -27,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>21e65d4e-9173-45c5-a01f-f7138492d40a</webElementGuid>
+      <webElementGuid>406661ed-c0f7-4e42-90a4-036c0024ab6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -35,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-toast-summary ng-tns-c67-187</value>
-      <webElementGuid>084a316a-cfd9-4c5d-9e33-8979e7228fea</webElementGuid>
+      <webElementGuid>bebf66df-edfc-41f2-84f1-73685d42a282</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Intake</value>
-      <webElementGuid>920fbd2e-dd46-4529-bce5-fe32272fc75c</webElementGuid>
+      <webElementGuid>1a0f330c-7c6d-4431-8508-628de6b04e9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -51,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//h5[@class='mb-0 font-weight-bold']</value>
-      <webElementGuid>4ba27b95-fd62-45ed-af03-df1e4c3ec56d</webElementGuid>
+      <webElementGuid>468ee9a8-8a78-43d5-a177-e5e1b2af081b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -59,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Advance Filter'])[1]/following::div[9]</value>
-      <webElementGuid>b77e86e4-82c7-4a2b-9a92-378ac1f9d8b5</webElementGuid>
+      <webElementGuid>098930d7-d0dd-4499-8f8f-7f4d44805167</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -67,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='label for searchText'])[2]/following::div[9]</value>
-      <webElementGuid>bba7b69b-2738-46d4-a8fb-da89e625a471</webElementGuid>
+      <webElementGuid>17ae70c1-c6f8-40f9-b0f9-4a2cee97c4b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -75,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::div[2]</value>
-      <webElementGuid>ce80de8f-735f-4d36-8c1a-5d88074ac7e0</webElementGuid>
+      <webElementGuid>2728ff77-e9ff-4e3d-9df6-f333d17a7bb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -83,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Intake']/parent::*</value>
-      <webElementGuid>3eb50d2c-fcaa-4eb6-a40c-bfc7ef3e855e</webElementGuid>
+      <webElementGuid>259ab0e1-db22-46f8-bf68-35177c44bfb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//roots-toastitem/div/div/div/div</value>
-      <webElementGuid>7eb7c136-04c1-4234-be6d-39d4aa1d2115</webElementGuid>
+      <webElementGuid>e9c45ba4-34f8-4912-b436-0139c7cfdb7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -99,6 +98,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Intake' or . = 'Intake')]</value>
-      <webElementGuid>212c5cfe-765a-4925-8d87-24b99cc610ba</webElementGuid>
+      <webElementGuid>a2f31173-9efe-4bb3-86a8-fa1a69b1201d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

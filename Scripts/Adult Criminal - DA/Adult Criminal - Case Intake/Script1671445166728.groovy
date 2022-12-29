@@ -140,18 +140,17 @@ WebUI.click(findTestObject('Object Repository/Page_CMP NextGen/Next_button'))
 
 WebUI.scrollToPosition(50, 260)
 
-//WebUI.executeJavaScript(GlobalVariable.Pagedown, [])
+//WebUI.executeJavaScript(GlobalVariable.Pagedown, null)
 WebUI.click(findTestObject('Object Repository/Page_CMP NextGen/button_Submit'))
 
-//WebUI.verifyElementText(findTestObject('Page_CMP NextGen/Case Created Successfully'), 'Intake')
 String text = WebUI.getText(findTestObject('Page_CMP NextGen/Case Created Successfully'))
 
-println(text)
+not_run: println(text)
+
+not_run: WebUI.verifyElementText(findTestObject('Page_CMP NextGen/Case Created Successfully'), 'Intake')
 
 //WebUI.verifyMatch(text, '^Case .* created successfully', true, FailureHandling.STOP_ON_FAILURE)
-WebUI.verifyMatch(text, '^Case #.*', true, FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.verifyMatch(text, '^Case #.*', true, FailureHandling.STOP_ON_FAILURE)
 
-WebUI.takeElementScreenshot(findTestObject('Page_CMP NextGen/Case Created Successfully'))
-
-WebUI.takeFullPageScreenshot()
+WebUI.takeScreenshot()
 
