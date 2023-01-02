@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_balya MR., pradeep kumar_form-control_4f077a</name>
+   <tag></tag>
+   <elementGuidId>a6dd20fd-bb92-44e5-bb46-6b506bac8e89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.ng-untouched.ng-pristine.ng-valid.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>641c1f16-7da4-4bb7-8b30-d95dd37f0a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f1e4b9ee-665e-436e-a72b-45661004d287</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-valid ng-star-inserted</value>
+      <webElementGuid>f5410250-bed1-4561-adf0-797233a9a46d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-case360-document-selection[@class=&quot;ng-star-inserted&quot;]/app-add-document-generation[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-tabview px-3&quot;]/roots-table[1]/div[@class=&quot;ui-table ui-widget&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;expandedRow ng-star-inserted&quot;]/td[@class=&quot;expanded&quot;]/app-case360-question-answer[1]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-6 ng-star-inserted&quot;]/ul[1]/container-element[1]/li[@class=&quot;mb-2 ng-star-inserted&quot;]/input[@class=&quot;form-control ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]</value>
+      <webElementGuid>72115200-53e6-4e72-84b7-599583b9ef88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[9]</value>
+      <webElementGuid>89b0d73a-2a9c-4e91-b19e-e87726afd20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-document-selection/app-add-document-generation/div[2]/roots-table/div/div/table/tbody/tr[2]/td/app-case360-question-answer/div[10]/div[2]/ul/container-element/li/input</value>
+      <webElementGuid>a8a7de0e-ab4b-45ed-84bb-ca5e2369cde4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/input</value>
+      <webElementGuid>c520ca76-de6b-49a0-adb8-208cae3f844c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>d39aeb07-727f-4122-935d-d907e25ad611</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

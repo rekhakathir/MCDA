@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Choose_ui-chkbox-box ui-widget ui-corne_9fa9f5</name>
+   <tag></tag>
+   <elementGuidId>6b151cd3-e864-4015-b2da-86ed40f2f56b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-chkbox-box.ui-widget.ui-corner-all.ui-state-default.ng-tns-c54-190</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-event-information/div/app-case360-events/div/app-addcase360-events/div[2]/div/div/app-addcase360-events-results/roots-dialog/div/div[2]/form/div/div/div/div/div[3]/div/roots-multiselect/div/div[4]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9c1b04d1-15dc-4a6c-ac41-c2476d482203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-chkbox-box ui-widget ui-corner-all ui-state-default ng-tns-c54-190</value>
+      <webElementGuid>96a90823-fd3d-43ca-b1d8-57a3cb6642c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-event-information[@class=&quot;ng-star-inserted&quot;]/div[1]/app-case360-events[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-addcase360-events[1]/div[@class=&quot;clearfix ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container-fluid mb-3&quot;]/app-addcase360-events-results[@class=&quot;ng-star-inserted&quot;]/roots-dialog[@class=&quot;ng-tns-c52-187 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c52-187 dialog-common col-md-6 p-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c52-187&quot;]/form[@class=&quot;ng-tns-c52-187 ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;container-fluid bg-white px-2 py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-12 col-lg-12 col-xl-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-md-6 col-lg-6 col-xl-6&quot;]/div[@class=&quot;form-group&quot;]/roots-multiselect[@class=&quot;roots-form-control ng-tns-c54-190 ui-inputwrapper-filled ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/div[@class=&quot;ng-tns-c54-190 ui-multiselect ui-widget ui-state-default ui-corner-all ui-multiselect-open&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c54-190 ui-multiselect-panel ui-widget ui-widget-content ui-corner-all ui-shadow ng-star-inserted&quot;]/div[@class=&quot;ui-widget-header ui-corner-all ui-multiselect-header ui-helper-clearfix ng-tns-c54-190 ng-star-inserted&quot;]/div[@class=&quot;ui-chkbox ui-widget ng-tns-c54-190 ng-star-inserted&quot;]/div[@class=&quot;ui-chkbox-box ui-widget ui-corner-all ui-state-default ng-tns-c54-190&quot;]</value>
+      <webElementGuid>e4841759-ce79-486c-aa8c-b9dd3c77b3d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-event-information/div/app-case360-events/div/app-addcase360-events/div[2]/div/div/app-addcase360-events-results/roots-dialog/div/div[2]/form/div/div/div/div/div[3]/div/roots-multiselect/div/div[4]/div[2]/div/div[2]</value>
+      <webElementGuid>c7477437-9ab2-472d-ba4e-85eed37b02cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose'])[3]/following::div[7]</value>
+      <webElementGuid>d63f3521-5b73-4ea4-946c-319a5449ebcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participants'])[2]/following::div[10]</value>
+      <webElementGuid>9efe89a5-f8d5-42a2-8545-61e9263aafb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Defendant-1-balya MR., pradeep kumar'])[2]/preceding::div[4]</value>
+      <webElementGuid>7097d6b5-5505-420b-b387-e3690e34e382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::div[6]</value>
+      <webElementGuid>f9607d48-7286-4af6-ab02-c0f0b00109a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[2]</value>
+      <webElementGuid>aacccb95-b736-426b-a8dc-828c77a4bc3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Edit</name>
+   <tag></tag>
+   <elementGuidId>5206fe14-d525-42eb-bc3a-462f164dbcab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.font-weight-bold.text-primary.mr-2.cursor-pointer.mb-0.bg-white.border-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-54-label']/div/div/roots-table/div/div/table/tbody/tr[2]/td/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7ae70792-92c5-4394-aa1c-1b19502fa34f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold text-primary mr-2 cursor-pointer mb-0 bg-white border-0</value>
+      <webElementGuid>35dbd175-5614-4968-a6f5-dbfa388b12ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit </value>
+      <webElementGuid>a2e51ae8-58f2-4171-8dcd-94f2733ddaa8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-54&quot;)/div[@id=&quot;ui-panel-54-label&quot;]/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c76-197&quot;]/div[@class=&quot;app-tabview bg-white ng-tns-c76-197&quot;]/roots-table[1]/div[@class=&quot;ui-table ui-widget&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;expandedRow ng-star-inserted&quot;]/td[@class=&quot;expanded pt-0&quot;]/div[@class=&quot;py-2 d-flex&quot;]/div[@class=&quot;ml-auto&quot;]/button[@class=&quot;font-weight-bold text-primary mr-2 cursor-pointer mb-0 bg-white border-0&quot;]</value>
+      <webElementGuid>b9f7bcae-2d7d-4b39-b891-1944add3e05b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-54-label']/div/div/roots-table/div/div/table/tbody/tr[2]/td/div/div/button</value>
+      <webElementGuid>e3820060-d90b-485f-8524-71d5534c3bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expansion Link'])[1]/following::button[1]</value>
+      <webElementGuid>28160f5c-ea8b-467c-a9e0-472ab43557c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[1]/following::button[1]</value>
+      <webElementGuid>01a0d0cc-4c7c-408d-9863-09353820a96b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/preceding::button[1]</value>
+      <webElementGuid>7e4ed55c-b80e-466d-b816-8633e7a0d8f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::button[2]</value>
+      <webElementGuid>17cc4447-e49b-4723-add3-cdbc00f0872e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/button</value>
+      <webElementGuid>db096e5d-5823-46fd-853a-3b7efe68e447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Edit ' or . = 'Edit ')]</value>
+      <webElementGuid>cacabd66-e091-4b3d-8c04-f4eb3d644f61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

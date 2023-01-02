@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Felony Indictment_ui-chkbox-icon ui-cl_ce9536</name>
+   <tag></tag>
+   <elementGuidId>c9a550ad-80ff-408f-95c5-10556fa46a55</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ui-multiselect-item.ui-corner-all.ui-state-highlight > div.ui-chkbox.ui-widget > div.ui-chkbox-box.ui-widget.ui-corner-all.ui-state-default.ui-state-active > span.ui-chkbox-icon.ui-clickable.fa.fa-check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-document-selection/roots-dialog/div/div[2]/form/app-addcase360-document/form/div/div[3]/div/span[2]/roots-multiselect/div/div[4]/div[3]/ul/roots-multiselectitem/li/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>340751da-92ca-4c56-8aaa-f2b2f11e59df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-chkbox-icon ui-clickable fa fa-check</value>
+      <webElementGuid>3590a1a9-faf8-4593-bdbe-945d620b626b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-case360-document-selection[@class=&quot;ng-star-inserted&quot;]/roots-dialog[@class=&quot;d-flex justify-content-center ng-tns-c52-60 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c52-60 col-sm-10 col-md-9 col-lg-8 col-xl-5 p-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c52-60&quot;]/form[@class=&quot;ng-invalid ng-tns-c52-60 ng-dirty ng-touched&quot;]/app-addcase360-document[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group&quot;]/span[2]/roots-multiselect[@class=&quot;roots-form-control ng-tns-c54-73 ui-inputwrapper-filled ng-star-inserted ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;ng-tns-c54-73 ui-multiselect ui-widget ui-state-default ui-corner-all ui-multiselect-open&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c54-73 ui-multiselect-panel ui-widget ui-widget-content ui-corner-all ui-shadow ng-star-inserted&quot;]/div[@class=&quot;ui-multiselect-items-wrapper ng-tns-c54-73&quot;]/ul[@class=&quot;ui-multiselect-items ui-multiselect-list ui-widget-content ui-widget ui-corner-all ui-helper-reset ng-tns-c54-73&quot;]/roots-multiselectitem[@class=&quot;ng-tns-c54-73 ng-star-inserted&quot;]/li[@class=&quot;ui-multiselect-item ui-corner-all ui-state-highlight&quot;]/div[@class=&quot;ui-chkbox ui-widget&quot;]/div[@class=&quot;ui-chkbox-box ui-widget ui-corner-all ui-state-default ui-state-active&quot;]/span[@class=&quot;ui-chkbox-icon ui-clickable fa fa-check&quot;]</value>
+      <webElementGuid>caf221c9-3be3-4835-8445-8418283dbcf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-document-selection/roots-dialog/div/div[2]/form/app-addcase360-document/form/div/div[3]/div/span[2]/roots-multiselect/div/div[4]/div[3]/ul/roots-multiselectitem/li/div/div/span</value>
+      <webElementGuid>d087207d-239c-4818-b9a7-e64750b3a0d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/span</value>
+      <webElementGuid>a85af27b-8649-4c51-82d8-7b35fd0585e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

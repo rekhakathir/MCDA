@@ -6,15 +6,19 @@
    <elementGuidId>4c5e502f-b239-46f4-84b9-2900d01ab747</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='ui-panel-23']/div/roots-header/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>roots-header.w-100.ng-tns-c76-88 > div.d-flex > div.font-weight-bold.text-black</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ui-panel-7&quot;]/div[1]/roots-header/div/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>( //*[(text() = 'Judge History' or . = 'Judge History')])[4]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b8076a5a-2df7-4897-82cf-3617c01d0e36</webElementGuid>
+      <webElementGuid>f8e9251e-9910-4c71-a481-7bfd9a15d7cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +34,23 @@
       <name>class</name>
       <type>Main</type>
       <value>font-weight-bold text-black</value>
-      <webElementGuid>0299381b-0be9-4fe6-8549-14e5ee4954a9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Judge History</value>
-      <webElementGuid>80b917bb-57d7-421b-b2ef-fa082570b83d</webElementGuid>
+      <webElementGuid>d29e14e3-bcc5-42af-8026-484bf30043f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Judge History</value>
+      <webElementGuid>f7cfc588-a82c-42c2-b479-44a3965a188b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ui-panel-23&quot;)/div[@class=&quot;ng-tns-c76-88 ui-panel-titlebar ui-widget-header ui-helper-clearfix ui-corner-all ng-star-inserted&quot;]/roots-header[@class=&quot;w-100 ng-tns-c76-88&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;font-weight-bold text-black&quot;]</value>
-      <webElementGuid>327efc98-d025-489e-b219-e23a11667a4a</webElementGuid>
+      <value>( //*[(text() = 'Judge History' or . = 'Judge History')])[4]</value>
+      <webElementGuid>82e2103b-4df1-4f7c-88f2-71de2ec9f030</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ui-panel-23']/div/roots-header/div/div</value>
-      <webElementGuid>02e26057-8edc-4e60-9bc3-8366f264e125</webElementGuid>
+      <webElementGuid>cabe8cee-2361-44fd-84fc-8e410e6903f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No Records found'])[1]/following::div[5]</value>
-      <webElementGuid>71d83237-15b2-436f-ba3e-1d9e5e376d0e</webElementGuid>
+      <webElementGuid>481aca56-abbb-4b91-8ead-0e75dacce20a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Relationship Reason'])[1]/following::div[5]</value>
-      <webElementGuid>5deb5b83-8c9d-464b-8a23-8ebdbdd2920a</webElementGuid>
+      <webElementGuid>d74edaa4-78c5-4a36-ba9f-0093ad46132d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Judge'])[1]/preceding::div[1]</value>
-      <webElementGuid>4f49255c-4926-4eeb-88ab-d86db425d4cf</webElementGuid>
+      <webElementGuid>206c8cf2-06e1-45d8-9ed5-00f4218a4b60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Judge Type'])[1]/preceding::div[1]</value>
-      <webElementGuid>b25c1345-cdc5-40a4-8bc1-c7dc13886eb1</webElementGuid>
+      <webElementGuid>a5c19e46-485f-4e84-b3c3-76351640be00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Judge History']/parent::*</value>
-      <webElementGuid>aa02aeda-cb19-44b4-971f-3217b549c8d2</webElementGuid>
+      <webElementGuid>944626cd-c428-44af-ba2c-7c0a47fc638a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,14 +106,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/roots-panel/div/div/roots-header/div/div</value>
-      <webElementGuid>050b92aa-9047-4102-b814-107c349c9351</webElementGuid>
+      <webElementGuid>19667ac5-8a74-4fca-984d-1286ccb20a1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Judge History' or . = 'Judge History')]</value>
-      <webElementGuid>66005226-efc0-4dac-bcaf-383bad4854e0</webElementGuid>
+      <value>( //*[(text() = 'Judge History' or . = 'Judge History')])[4]</value>
+      <webElementGuid>15ece02b-e3b9-477c-9a25-0a3e7faa8698</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

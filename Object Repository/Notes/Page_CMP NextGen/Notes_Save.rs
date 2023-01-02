@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Save</description>
+   <name>Notes_Save</name>
+   <tag></tag>
+   <elementGuidId>c0a06ebd-f806-4607-924e-ec39ef3496b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[contains(text(),'Save')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[contains(text(),'Save')]</value>
+      <webElementGuid>e8a23c34-72fd-4c8f-938f-eefaf6a66d5b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

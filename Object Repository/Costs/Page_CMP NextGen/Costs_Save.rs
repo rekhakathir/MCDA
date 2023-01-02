@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Costs_Save</name>
+   <tag></tag>
+   <elementGuidId>5606b115-f518-4044-9d51-7b26c3732e8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[contains(text(),'Save')]</value>
+      <webElementGuid>9d16609f-8808-45b1-8321-85cb3d7ee5e2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

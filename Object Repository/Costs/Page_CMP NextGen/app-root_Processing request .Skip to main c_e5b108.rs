@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>app-root_Processing request .Skip to main c_e5b108</name>
+   <tag></tag>
+   <elementGuidId>60d62bcb-08a9-44a2-973b-60ae1e287d83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>app-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>app-root</value>
+      <webElementGuid>d29c1929-5ff9-4fc0-8768-b54fc4ead607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-version</name>
+      <type>Main</type>
+      <value>13.1.3</value>
+      <webElementGuid>4cdd5bd3-9789-4717-8046-e35403f7e007</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate30Notifications216Press Enter to open the Dialog box and then use navigation keys to navigate216balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHome3002695Case # 3002695 balya, pradeep kumar, MR.I want to ...Add File LocationAdd New ParticipantAdd Participant InteractionAdd TaskAssign CaseCopy CaseExpunge/UnexpungeSchedule Grand JuryCase Snapshot Add NoteStatus:Pending Review (12/29/2022)Assigned To:DV DDAs  Next Up: N/A Case OverviewParticipants1Case Charges0Costs0DetailDocuments1Events0Evidence0File Location0Incidents1Notes1Tasks1Witness Management0Case ParticipantsView ParticipantsType or press Enter to show the case participantsCosts Showing 1 - 0of 0 10 10left PaginationRight PaginationTotal Amount$0.00Add Case Costs Expense Category  Amount  Date Incurred  Payee  Invoice#  No Records found  Add Case Cost  Case # 3002695Expense Category*Select Expense CategoryExpert Witness Expert WitnessAmount*PayeeDate Incurred*ui-btnInvoice#NotesSaveCancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.</value>
+      <webElementGuid>1f490ed7-b214-4aed-8363-d6bff0da5e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]</value>
+      <webElementGuid>b1564883-7b70-4bb3-aa20-392ee500dadf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-root</value>
+      <webElementGuid>3ce1a6f6-b5cb-4c4f-9e6d-b12d6ea7aac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//app-root[(text() = 'Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate30Notifications216Press Enter to open the Dialog box and then use navigation keys to navigate216balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHome3002695Case # 3002695 balya, pradeep kumar, MR.I want to ...Add File LocationAdd New ParticipantAdd Participant InteractionAdd TaskAssign CaseCopy CaseExpunge/UnexpungeSchedule Grand JuryCase Snapshot Add NoteStatus:Pending Review (12/29/2022)Assigned To:DV DDAs  Next Up: N/A Case OverviewParticipants1Case Charges0Costs0DetailDocuments1Events0Evidence0File Location0Incidents1Notes1Tasks1Witness Management0Case ParticipantsView ParticipantsType or press Enter to show the case participantsCosts Showing 1 - 0of 0 10 10left PaginationRight PaginationTotal Amount$0.00Add Case Costs Expense Category  Amount  Date Incurred  Payee  Invoice#  No Records found  Add Case Cost  Case # 3002695Expense Category*Select Expense CategoryExpert Witness Expert WitnessAmount*PayeeDate Incurred*ui-btnInvoice#NotesSaveCancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.' or . = 'Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate30Notifications216Press Enter to open the Dialog box and then use navigation keys to navigate216balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHome3002695Case # 3002695 balya, pradeep kumar, MR.I want to ...Add File LocationAdd New ParticipantAdd Participant InteractionAdd TaskAssign CaseCopy CaseExpunge/UnexpungeSchedule Grand JuryCase Snapshot Add NoteStatus:Pending Review (12/29/2022)Assigned To:DV DDAs  Next Up: N/A Case OverviewParticipants1Case Charges0Costs0DetailDocuments1Events0Evidence0File Location0Incidents1Notes1Tasks1Witness Management0Case ParticipantsView ParticipantsType or press Enter to show the case participantsCosts Showing 1 - 0of 0 10 10left PaginationRight PaginationTotal Amount$0.00Add Case Costs Expense Category  Amount  Date Incurred  Payee  Invoice#  No Records found  Add Case Cost  Case # 3002695Expense Category*Select Expense CategoryExpert Witness Expert WitnessAmount*PayeeDate Incurred*ui-btnInvoice#NotesSaveCancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.')]</value>
+      <webElementGuid>7c4bb9b5-e9b4-4697-ada5-8bd2725e3d33</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

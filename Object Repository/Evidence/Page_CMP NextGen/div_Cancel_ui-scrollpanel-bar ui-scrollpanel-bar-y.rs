@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cancel_ui-scrollpanel-bar ui-scrollpanel-bar-y</name>
+   <tag></tag>
+   <elementGuidId>81bcd287-0cf8-4525-a506-62ff427a6903</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-evidence/div/app-case360-evidence-details/div/form/div[3]/app-evidence-test-action-summary/roots-dialog/div/div[2]/roots-scrollpanel/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>roots-scrollpanel.ng-tns-c52-301 > div.ui-scrollpanel.ui-widget.ui-widget-content.ui-corner-all > div.ui-scrollpanel-bar.ui-scrollpanel-bar-y</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f6fabc02-55e6-44d9-b793-4de1e1ff7ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-scrollpanel-bar ui-scrollpanel-bar-y</value>
+      <webElementGuid>dee60000-5a3f-43cf-ae77-cfd76f8864c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-case360-evidence[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/app-case360-evidence-details[1]/div[@class=&quot;addevidence-content&quot;]/form[@class=&quot;ng-valid ng-touched ng-dirty&quot;]/div[@class=&quot;mt-2 ng-star-inserted&quot;]/app-evidence-test-action-summary[1]/roots-dialog[@class=&quot;ng-tns-c52-301 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c52-301 col-xl-6 col-lg-8 col-md-8 px-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c52-301&quot;]/roots-scrollpanel[@class=&quot;ng-tns-c52-301&quot;]/div[@class=&quot;ui-scrollpanel ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;ui-scrollpanel-bar ui-scrollpanel-bar-y&quot;]</value>
+      <webElementGuid>fb541ec9-7f59-4f8a-ad54-af2a4742bec4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-evidence/div/app-case360-evidence-details/div/form/div[3]/app-evidence-test-action-summary/roots-dialog/div/div[2]/roots-scrollpanel/div/div[3]</value>
+      <webElementGuid>a7f64485-c191-4f02-8e06-83b4f7ab787f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/roots-scrollpanel/div/div[3]</value>
+      <webElementGuid>39c6cb79-a8f6-4cca-8aca-b4c5431f0b55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

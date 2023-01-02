@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='ui-panel-26-label']/div/div/div[2]/roots-table/div/div/table/tbody/tr/td[2]/a</value>
+         <value>(//*[(text() = 'balya MR., pradeep kumar ' or . = 'balya MR., pradeep kumar ')])</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>61e97f07-d8a8-4222-879e-0ecab5b56ac0</webElementGuid>
+      <webElementGuid>47b45ce9-1009-4cff-9292-5b13f9e3557f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-primary ng-star-inserted</value>
-      <webElementGuid>1de04f77-60d2-4ff0-9480-ea9da8a82c4e</webElementGuid>
+      <webElementGuid>432f5e7c-2300-411f-9d84-f210deeb4402</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#/home/participant/5518</value>
-      <webElementGuid>ef33152a-c245-4fc0-a379-4b595336dde8</webElementGuid>
+      <webElementGuid>505bdaf5-036e-44b1-a086-942f7386bebf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>balya MR., pradeep kumar </value>
-      <webElementGuid>5de41542-7d37-4191-907e-32ceec5d2a70</webElementGuid>
+      <webElementGuid>1c9580f9-d408-490d-8cf4-e38115c8671e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-panel-26&quot;)/div[@id=&quot;ui-panel-26-label&quot;]/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c76-95&quot;]/div[@class=&quot;clearfix ng-tns-c76-95&quot;]/div[@class=&quot;app-tabview bg-white&quot;]/roots-table[1]/div[@class=&quot;ui-table ui-widget&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;ng-star-inserted activeRow&quot;]/td[@class=&quot;ng-star-inserted&quot;]/a[@class=&quot;text-primary ng-star-inserted&quot;]</value>
-      <webElementGuid>844f3a31-0f18-4187-b767-28959d22d690</webElementGuid>
+      <webElementGuid>19a6620a-2619-45b3-a782-d6eee51b2ac9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ui-panel-26-label']/div/div/div[2]/roots-table/div/div/table/tbody/tr/td[2]/a</value>
-      <webElementGuid>650055d3-bdc5-400f-92de-b543802f4dc9</webElementGuid>
+      <webElementGuid>d2b39c17-54c0-4d49-baa2-a8bdf2a1f710</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'balya MR., pradeep kumar')]</value>
-      <webElementGuid>c5a74834-1b3a-49eb-afd0-1c259d708d8b</webElementGuid>
+      <webElementGuid>21e37841-fd75-46eb-aec9-65a4490d7c57</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Name:'])[1]/following::a[1]</value>
-      <webElementGuid>eaf794d9-6816-4fdf-b1fc-c5b0b3f88fbc</webElementGuid>
+      <webElementGuid>7310b637-eccf-4e9f-bc7f-1597d86066ec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Defendant-1'])[1]/following::a[1]</value>
-      <webElementGuid>c5c55f41-1428-4199-97fb-e09dcf7041a5</webElementGuid>
+      <webElementGuid>1545952a-2649-44b9-a37b-71aa5146c585</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Attorney:'])[1]/preceding::a[1]</value>
-      <webElementGuid>beaff9b0-e2c0-4966-8ab1-c0651d109aea</webElementGuid>
+      <webElementGuid>5e59ed7d-e352-4128-9ff2-b730d176e392</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[11]/preceding::a[1]</value>
-      <webElementGuid>4f21065f-e3b4-4f1e-961c-710a5cf89f0f</webElementGuid>
+      <webElementGuid>0e082618-4742-4762-bf08-a482ccbad631</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='balya MR., pradeep kumar']/parent::*</value>
-      <webElementGuid>412ed4cb-4cf8-4df7-8102-7a0cdffb401c</webElementGuid>
+      <webElementGuid>a3f3538f-93f6-4188-8d15-46c2a5a8f2db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#/home/participant/5518')])[2]</value>
-      <webElementGuid>cbc86b9d-7aa2-458d-9be5-bf27a2a5a7ba</webElementGuid>
+      <webElementGuid>a9b40f36-90a8-4ea3-8628-0503c8a9d197</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[2]/a</value>
-      <webElementGuid>5b375367-c888-46ba-9b4a-73dfc2078cc3</webElementGuid>
+      <webElementGuid>c730876b-1d49-4b91-96f9-fdebd9151780</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '#/home/participant/5518' and (text() = 'balya MR., pradeep kumar ' or . = 'balya MR., pradeep kumar ')]</value>
-      <webElementGuid>b39ae9eb-3138-41bd-889e-387ef0f530a1</webElementGuid>
+      <webElementGuid>259f0db9-0f3b-46c1-97da-dcf5ad4f2098</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

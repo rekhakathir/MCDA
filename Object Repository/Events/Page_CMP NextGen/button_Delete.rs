@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Delete</name>
+   <tag></tag>
+   <elementGuidId>f52c6d11-f0de-4cd6-a960-2c645e36f213</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-54-label']/div/div/roots-table/div/div/table/tbody/tr[2]/td/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2f73e232-06c4-4072-96fb-2336d14ae4b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold text-primary cursor-pointer mb-0 bg-white border-0</value>
+      <webElementGuid>9c5349a5-eac4-42ed-aee4-6a9916222dc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete </value>
+      <webElementGuid>eb4ea72a-f610-4f9b-b1cc-710367d95b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-54&quot;)/div[@id=&quot;ui-panel-54-label&quot;]/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c76-197&quot;]/div[@class=&quot;app-tabview bg-white ng-tns-c76-197&quot;]/roots-table[1]/div[@class=&quot;ui-table ui-widget&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;expandedRow ng-star-inserted&quot;]/td[@class=&quot;expanded pt-0&quot;]/div[@class=&quot;py-2 d-flex&quot;]/div[@class=&quot;ml-auto&quot;]/button[@class=&quot;font-weight-bold text-primary cursor-pointer mb-0 bg-white border-0&quot;]</value>
+      <webElementGuid>1b86cfd4-b679-4c34-9fb9-9f2fd3875620</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-54-label']/div/div/roots-table/div/div/table/tbody/tr[2]/td/div/div/button[2]</value>
+      <webElementGuid>b6772c5a-e669-46e8-a41c-e5fa6f6c9e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::button[1]</value>
+      <webElementGuid>d0fb092f-b7c2-4b42-8673-f1409830bb1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expansion Link'])[1]/following::button[2]</value>
+      <webElementGuid>fcd7ade9-58fd-4297-b493-7393b5e536ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doc Type:'])[2]/preceding::button[1]</value>
+      <webElementGuid>6acf5bfc-17a2-401e-ae97-3298befd16ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Police Report'])[2]/preceding::button[1]</value>
+      <webElementGuid>b0f2c96d-0d41-46ba-abee-decaf1db87bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/button[2]</value>
+      <webElementGuid>f18ac1fb-3b75-4785-8c67-416fb2c3aa51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Delete ' or . = 'Delete ')]</value>
+      <webElementGuid>f15c0007-6486-4d29-9ad3-6933d39a0a13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

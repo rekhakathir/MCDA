@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Keywords</name>
+   <tag></tag>
+   <elementGuidId>1a0e6850-1296-4df3-941b-21d3e6d6584d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>roots-header.w-100.ng-tns-c76-138 > div.d-flex.align-items-center > div.font-weight-bold.text-black</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-17']/div/roots-header/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f17a98d7-7ef3-464e-b099-892e36df652c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-weight-bold text-black</value>
+      <webElementGuid>9caf2510-f2f1-4b06-a67f-21e7da2a6af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Keywords</value>
+      <webElementGuid>73419c92-e1cf-4724-8db7-a57ddc103037</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-17&quot;)/div[@class=&quot;ng-tns-c76-138 ui-panel-titlebar ui-widget-header ui-helper-clearfix ui-corner-all ng-star-inserted&quot;]/roots-header[@class=&quot;w-100 ng-tns-c76-138&quot;]/div[@class=&quot;d-flex align-items-center&quot;]/div[@class=&quot;font-weight-bold text-black&quot;]</value>
+      <webElementGuid>8ed8bc7b-0c0d-4475-97cc-a6b80856cd95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-17']/div/roots-header/div/div</value>
+      <webElementGuid>9a0d92cc-7e8c-454e-8b60-ad869c25f9ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Type:'])[2]/following::div[6]</value>
+      <webElementGuid>4bdc81b4-8f6f-4541-84de-eaa613d9e9a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description:'])[2]/following::div[7]</value>
+      <webElementGuid>7aaede53-3ceb-4279-9a64-e986871eed96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Keywords'])[1]/preceding::div[1]</value>
+      <webElementGuid>4175de6f-f7d0-43e9-b522-cc19b3d56923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Keywords']/parent::*</value>
+      <webElementGuid>46ff1b00-cbe5-462e-8bc6-14e3b9b46eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-key-words/div/roots-panel/div/div/roots-header/div/div</value>
+      <webElementGuid>2f20b84c-25f7-4eaf-a16f-7706d89daa70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Keywords' or . = 'Keywords')]</value>
+      <webElementGuid>fe944979-0cfb-4bd2-ae93-cffb1edb198a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

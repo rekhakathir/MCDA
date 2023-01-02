@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add Adult Criminal -  Events</description>
+   <name>Events</name>
+   <tag>@ Events</tag>
+   <comment></comment>
+   <testCaseGuid>ba963c52-862c-4d60-a5fe-3d122d1fb6e9</testCaseGuid>
+</TestCaseEntity>

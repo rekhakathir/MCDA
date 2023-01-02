@@ -6,15 +6,19 @@
    <elementGuidId>18cff7ff-2003-4b1e-9c55-d087d9cbfb11</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='ui-panel-19']/div/roots-header/div/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.ui-panel-title.font-weight-bold.text-black</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>( //*[(text() = 'Recent Activity' or . = 'Recent Activity')])[4]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Recent Activity' or . = 'Recent Activity')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c60ab6fb-5521-4404-b6ae-692d4f2a46ff</webElementGuid>
+      <webElementGuid>af0a4bb9-1f10-4e3c-9e81-929a3923a248</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ui-panel-title font-weight-bold text-black</value>
-      <webElementGuid>1032f845-5262-487c-bee4-c11be4ad8e5a</webElementGuid>
+      <webElementGuid>9ae7d64b-d979-4c89-b987-b42cd8484f9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Recent Activity</value>
-      <webElementGuid>4017a40c-72a0-49df-be62-82efdd8d9876</webElementGuid>
+      <webElementGuid>eb80d29e-8d3e-4dfc-8de2-6bb619a3d3f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-panel-19&quot;)/div[@class=&quot;ng-tns-c76-84 ui-panel-titlebar ui-widget-header ui-helper-clearfix ui-corner-all ng-star-inserted&quot;]/roots-header[@class=&quot;ng-tns-c76-84&quot;]/div[@class=&quot;ui-helper-clearfix&quot;]/span[@class=&quot;ui-panel-title font-weight-bold text-black&quot;]</value>
-      <webElementGuid>5f099278-710f-4259-8ea3-c74b043a4a08</webElementGuid>
+      <webElementGuid>3fdf52d7-1ef6-4416-87f9-2bcdba3bd45f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ui-panel-19']/div/roots-header/div/span</value>
-      <webElementGuid>d28dde7e-004f-4bec-b9d1-85efa8cb206e</webElementGuid>
+      <webElementGuid>26b24de9-2152-4479-a29c-c4307b71542b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Expansion Link'])[1]/following::span[1]</value>
-      <webElementGuid>96c3c344-c0a9-43d6-9e71-998f7c155a65</webElementGuid>
+      <webElementGuid>9724053d-c8c9-4289-8ae8-79360958f6d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Primary Phone:'])[1]/following::span[3]</value>
-      <webElementGuid>c5224870-c50d-4c2a-8f98-965f3432587c</webElementGuid>
+      <webElementGuid>2be9240f-c737-40e8-a9aa-59e4ad47a912</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Created'])[1]/preceding::span[1]</value>
-      <webElementGuid>36e2c550-9222-4a7d-8133-63e64ec9f4b9</webElementGuid>
+      <webElementGuid>1ba6836a-0ee4-4214-91ba-b98607f94e50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Recent Activity']/parent::*</value>
-      <webElementGuid>bf23945f-eb8c-4623-84ac-acb67126854a</webElementGuid>
+      <webElementGuid>d9d438d6-14b7-48ad-8acb-d840bca4f2eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +98,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//roots-header/div/span</value>
-      <webElementGuid>f38478e9-7707-4612-82ed-ff0d9060d384</webElementGuid>
+      <webElementGuid>4328ec52-5d89-457d-85c3-7122fb2612d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +106,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Recent Activity' or . = 'Recent Activity')]</value>
-      <webElementGuid>543e7214-fa92-427a-b1ff-54e473e83c60</webElementGuid>
+      <webElementGuid>82c5c002-b528-457b-9107-ea4d3f8ec9f1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>app-root_Processing request .Skip to main c_e5b108</name>
+   <tag></tag>
+   <elementGuidId>e49e2aee-87b5-4b04-a603-150a5d422d84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>app-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>app-root</value>
+      <webElementGuid>dcc9ab33-d439-422e-99f1-00e021e041db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-version</name>
+      <type>Main</type>
+      <value>13.1.3</value>
+      <webElementGuid>8ce56212-45f6-4616-8005-2612ab85ec75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate30Notifications216Press Enter to open the Dialog box and then use navigation keys to navigate216balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHome3002691Case # 3002691 balya, pradeep kumar, MR.I want to ...Add File LocationAdd New ParticipantAdd Participant InteractionAdd TaskAssign CaseCopy CaseExpunge/UnexpungeSchedule Grand JuryCase Snapshot Add NoteStatus:Pending Review (12/29/2022)Assigned To:DV DDAs  Next Up:Issuing Decision for Custody Case 12/29/2022Case OverviewParticipants1Case Charges0Costs0DetailDocuments1Events0Evidence0File Location0Incidents1Notes0Tasks1Witness Management0Case ParticipantsView ParticipantsType or press Enter to show the case participantsNotes Filter CloseText SearchNote Topic FilterChooseNote Create Date(From)ui-btnNote Create Date(To)ui-btnApplyResetSort by :Create Date Create Date Showing 1 - 0of 0 10 10left PaginationRight PaginationAdd Case NotesNo Records found Add Case Note  Case # 3002691Create Date : 12/29/2022Created by : balya I, Pradeep kumarUpdated by : balya I, Pradeep kumarNote Topic*SelectAdditional Case Facts Additional Case FactsNotes*SaveCancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.</value>
+      <webElementGuid>e57d01c5-9454-4fa3-a3d5-5cea818009cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]</value>
+      <webElementGuid>70e4d199-351c-46ce-acb7-06080b27645c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-root</value>
+      <webElementGuid>e23e426a-0707-499b-b3cb-43c7bc1b25a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//app-root[(text() = 'Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate30Notifications216Press Enter to open the Dialog box and then use navigation keys to navigate216balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHome3002691Case # 3002691 balya, pradeep kumar, MR.I want to ...Add File LocationAdd New ParticipantAdd Participant InteractionAdd TaskAssign CaseCopy CaseExpunge/UnexpungeSchedule Grand JuryCase Snapshot Add NoteStatus:Pending Review (12/29/2022)Assigned To:DV DDAs  Next Up:Issuing Decision for Custody Case 12/29/2022Case OverviewParticipants1Case Charges0Costs0DetailDocuments1Events0Evidence0File Location0Incidents1Notes0Tasks1Witness Management0Case ParticipantsView ParticipantsType or press Enter to show the case participantsNotes Filter CloseText SearchNote Topic FilterChooseNote Create Date(From)ui-btnNote Create Date(To)ui-btnApplyResetSort by :Create Date Create Date Showing 1 - 0of 0 10 10left PaginationRight PaginationAdd Case NotesNo Records found Add Case Note  Case # 3002691Create Date : 12/29/2022Created by : balya I, Pradeep kumarUpdated by : balya I, Pradeep kumarNote Topic*SelectAdditional Case Facts Additional Case FactsNotes*SaveCancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.' or . = 'Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate30Notifications216Press Enter to open the Dialog box and then use navigation keys to navigate216balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHome3002691Case # 3002691 balya, pradeep kumar, MR.I want to ...Add File LocationAdd New ParticipantAdd Participant InteractionAdd TaskAssign CaseCopy CaseExpunge/UnexpungeSchedule Grand JuryCase Snapshot Add NoteStatus:Pending Review (12/29/2022)Assigned To:DV DDAs  Next Up:Issuing Decision for Custody Case 12/29/2022Case OverviewParticipants1Case Charges0Costs0DetailDocuments1Events0Evidence0File Location0Incidents1Notes0Tasks1Witness Management0Case ParticipantsView ParticipantsType or press Enter to show the case participantsNotes Filter CloseText SearchNote Topic FilterChooseNote Create Date(From)ui-btnNote Create Date(To)ui-btnApplyResetSort by :Create Date Create Date Showing 1 - 0of 0 10 10left PaginationRight PaginationAdd Case NotesNo Records found Add Case Note  Case # 3002691Create Date : 12/29/2022Created by : balya I, Pradeep kumarUpdated by : balya I, Pradeep kumarNote Topic*SelectAdditional Case Facts Additional Case FactsNotes*SaveCancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.')]</value>
+      <webElementGuid>856c1356-af56-4609-af71-fe93ca15fc5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

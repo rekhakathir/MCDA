@@ -6,15 +6,19 @@
    <elementGuidId>06e5eab7-eb7c-4ad7-98ae-5b5858f2dc31</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='ui-panel-20']/div/roots-header/div/div</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>roots-header.w-100.ng-tns-c76-85 > div.d-flex > div.font-weight-bold.text-black</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value> (//*[(text() = 'Incidents' or . = 'Incidents')])[6]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value> (//*[(text() = 'Incidents' or . = 'Incidents')])[6]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e0e25734-1456-4a83-9179-d9f0297c69fe</webElementGuid>
+      <webElementGuid>64dd1fad-e093-4af4-b2e9-d6a42a7a2b6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +34,23 @@
       <name>class</name>
       <type>Main</type>
       <value>font-weight-bold text-black</value>
-      <webElementGuid>098829eb-125a-45a6-8a94-6c44fd35d114</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Incidents</value>
-      <webElementGuid>4faa0405-4e62-4eef-b7ed-ec4357f92e44</webElementGuid>
+      <webElementGuid>d9eca454-eeb2-47f7-a0e8-1acccb7435a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Incidents</value>
+      <webElementGuid>d639380c-3a1b-42c3-a545-6739791fae8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ui-panel-20&quot;)/div[@class=&quot;ng-tns-c76-85 ui-panel-titlebar ui-widget-header ui-helper-clearfix ui-corner-all ng-star-inserted&quot;]/roots-header[@class=&quot;w-100 ng-tns-c76-85&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;font-weight-bold text-black&quot;]</value>
-      <webElementGuid>da73ae80-2864-4f34-b840-4fecdcc1b86b</webElementGuid>
+      <value> (//*[(text() = 'Incidents' or . = 'Incidents')])[6]</value>
+      <webElementGuid>167e5906-e5b4-4a00-9e1d-34c1a0f2002f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ui-panel-20']/div/roots-header/div/div</value>
-      <webElementGuid>03c9de7f-5a16-4993-adc4-507f4ee38923</webElementGuid>
+      <webElementGuid>749352ec-9296-40de-bea6-885e000a988e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Added'])[1]/following::div[8]</value>
-      <webElementGuid>45b9dcb5-7f9e-4038-b036-0069a888df28</webElementGuid>
+      <webElementGuid>e69141d8-45b2-442d-a3e7-3bc42412b177</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Created'])[1]/following::div[14]</value>
-      <webElementGuid>f61e4a70-90c0-4482-925e-96b755b5da1d</webElementGuid>
+      <webElementGuid>7ed52086-2e26-4326-86d6-af3db5aef877</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LEA #'])[2]/preceding::div[1]</value>
-      <webElementGuid>91875a90-07c8-4e1f-8fe0-65d21bca2025</webElementGuid>
+      <webElementGuid>41fb1cfb-ee81-44e1-a015-07e89771fc70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Offense From Date'])[1]/preceding::div[1]</value>
-      <webElementGuid>394c02e9-171e-4a37-b8e7-91afa8502c4f</webElementGuid>
+      <webElementGuid>4446c981-c35b-4428-9c75-ee20ce2f2272</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,14 +98,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/roots-panel/div/div/roots-header/div/div</value>
-      <webElementGuid>474b3156-4c29-4e2f-9f51-75cf940a414c</webElementGuid>
+      <webElementGuid>7581680c-b677-447b-b45b-11311818d380</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//div[(text() = 'Incidents' or . = 'Incidents')]</value>
-      <webElementGuid>52f56cb7-4c1c-4a77-a869-8b16fa71c8c9</webElementGuid>
+      <value> (//*[(text() = 'Incidents' or . = 'Incidents')])[6]</value>
+      <webElementGuid>f0494b52-fd08-472c-be52-ef0bff98e583</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

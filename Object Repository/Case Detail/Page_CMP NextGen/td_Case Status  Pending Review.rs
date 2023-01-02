@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Case Status  Pending Review</name>
+   <tag></tag>
+   <elementGuidId>fc771e08-4364-4bb0-ada5-edfe036d8079</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-13-label']/div/div/div/roots-table/div/div/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Case Status:  Pending Review ' or . = 'Case Status:  Pending Review ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>10d43be6-8316-401d-aec9-2b15f1668e38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>8fb4dfd9-c5bd-4d70-8269-8345e947a1d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Case Status:  Pending Review </value>
+      <webElementGuid>3fe9c9cc-6fae-4d0a-b00c-b35dc0b0b653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-13&quot;)/div[@id=&quot;ui-panel-13-label&quot;]/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c76-112&quot;]/div[@class=&quot;clearfix ng-tns-c76-112&quot;]/div[@class=&quot;app-tabview bg-white&quot;]/roots-table[1]/div[@class=&quot;ui-table ui-widget&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>8b459c11-bf18-4aea-b490-bc3c0ff0cb14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-13-label']/div/div/div/roots-table/div/div/table/tbody/tr/td</value>
+      <webElementGuid>09b9e259-4ba0-47bf-aea8-ec350d793138</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expansion Header'])[1]/following::td[1]</value>
+      <webElementGuid>3e98905a-8dfa-4e2a-9511-e6f54f226a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Closing Sub Reason'])[1]/following::td[1]</value>
+      <webElementGuid>0730d4e8-c0fe-45ea-92dd-7c71107211f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Case Status Date:'])[1]/preceding::td[1]</value>
+      <webElementGuid>078ad5b4-2402-41fe-9350-0cbabbfefbc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pending Review']/parent::*</value>
+      <webElementGuid>4a577368-3eea-42ae-99ec-3ad083196d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>381fca24-ec28-4b48-9853-30042c3a6805</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Case Status:  Pending Review ' or . = 'Case Status:  Pending Review ')]</value>
+      <webElementGuid>e3288b37-f6f0-4537-8682-3b271bb01645</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

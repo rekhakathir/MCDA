@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_File Location</name>
+   <tag></tag>
+   <elementGuidId>6ae8ed25-17c1-4dbd-b9f3-c79bf09ce992</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;sideBar&quot;]/div/div[1]/div/ul/li[9]/div/label/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>db0acecf-dbce-41a5-8b72-f972c799cc1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/home/case360/3818/filelocation</value>
+      <webElementGuid>5553b1f7-16b1-4da0-b389-43daa0509a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-primary</value>
+      <webElementGuid>ceb08c7a-42ee-4287-af64-044d9b0c5484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>File Location</value>
+      <webElementGuid>12c9774f-528e-4b3f-8492-ea5ab2220323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sideBar&quot;)/div[@class=&quot;custom-sideBar ui-scrollpanel ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;ui-scrollpanel-wrapper&quot;]/div[@class=&quot;ui-scrollpanel-content&quot;]/ul[@class=&quot;border-top ng-star-inserted&quot;]/li[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex align-items-center my-2 mx-3&quot;]/label[@class=&quot;mb-0 ng-star-inserted&quot;]/a[@class=&quot;text-primary&quot;]</value>
+      <webElementGuid>a34ba193-f017-48c8-8717-f20f2342647e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//roots-scrollpanel[@id='sideBar']/div/div/div/ul/li[9]/div/label/a</value>
+      <webElementGuid>caaeccf6-5e15-430f-8239-fbe5e95e04a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'File Location')])[2]</value>
+      <webElementGuid>60029d2a-59e7-45f0-bda1-017509f9f092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Evidence'])[1]/following::a[1]</value>
+      <webElementGuid>12b917d1-967d-418f-87ae-136ed76074b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Events'])[1]/following::a[2]</value>
+      <webElementGuid>ee70661c-0f8f-4b73-9a78-a76e7fa58f18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incidents'])[1]/preceding::a[1]</value>
+      <webElementGuid>5b8a8428-4e63-4a66-a982-c7702ed5f583</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notes'])[1]/preceding::a[2]</value>
+      <webElementGuid>c6acb08e-c743-46b9-806b-ff78f6d3ba80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='File Location']/parent::*</value>
+      <webElementGuid>d8bdbcf0-c0ec-4b04-b309-dce20194fc70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/home/case360/3818/filelocation')]</value>
+      <webElementGuid>a763ae93-aec8-4aaf-b21b-11e3fe508ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/div/label/a</value>
+      <webElementGuid>74db87d3-9eac-4c10-972f-a16c07cd34a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/home/case360/3818/filelocation' and (text() = 'File Location' or . = 'File Location')]</value>
+      <webElementGuid>524a3480-d28d-474c-ad9e-5494add6cc0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

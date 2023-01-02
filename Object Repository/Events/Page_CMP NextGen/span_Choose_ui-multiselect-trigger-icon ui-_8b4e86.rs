@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Choose_ui-multiselect-trigger-icon ui-_8b4e86</name>
+   <tag></tag>
+   <elementGuidId>26bafdc2-715f-4949-9b78-8255e970b8c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-multiselect-trigger-icon.ui-clickable.ng-tns-c54-190.fas.fa-angle-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-event-information/div/app-case360-events/div/app-addcase360-events/div[2]/div/div/app-addcase360-events-results/roots-dialog/div/div[2]/form/div/div/div/div/div[3]/div/roots-multiselect/div/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0772da32-04fb-4284-befc-31fbe4b9a2d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-multiselect-trigger-icon ui-clickable ng-tns-c54-190 fas fa-angle-down</value>
+      <webElementGuid>e5c4f753-0ff1-41cf-a34c-1ac6363609ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-event-information[@class=&quot;ng-star-inserted&quot;]/div[1]/app-case360-events[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-addcase360-events[1]/div[@class=&quot;clearfix ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container-fluid mb-3&quot;]/app-addcase360-events-results[@class=&quot;ng-star-inserted&quot;]/roots-dialog[@class=&quot;ng-tns-c52-187 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c52-187 dialog-common col-md-6 p-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c52-187&quot;]/form[@class=&quot;ng-tns-c52-187 ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;container-fluid bg-white px-2 py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-12 col-lg-12 col-xl-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-md-6 col-lg-6 col-xl-6&quot;]/div[@class=&quot;form-group&quot;]/roots-multiselect[@class=&quot;roots-form-control ng-tns-c54-190 ui-inputwrapper-filled ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c54-190 ui-multiselect ui-widget ui-state-default ui-corner-all&quot;]/div[@class=&quot;ng-tns-c54-190 ui-multiselect-trigger ui-state-default ui-corner-right&quot;]/span[@class=&quot;ui-multiselect-trigger-icon ui-clickable ng-tns-c54-190 fas fa-angle-down&quot;]</value>
+      <webElementGuid>9fbd890c-c9f9-401a-80b4-f089fc18cd61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-event-information/div/app-case360-events/div/app-addcase360-events/div[2]/div/div/app-addcase360-events-results/roots-dialog/div/div[2]/form/div/div/div/div/div[3]/div/roots-multiselect/div/div[3]/span</value>
+      <webElementGuid>5ac47f29-f038-4f52-80bc-81603db00006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[3]/div/roots-multiselect/div/div[3]/span</value>
+      <webElementGuid>1228231b-b85b-4a69-91da-7bd2ec4f0097</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

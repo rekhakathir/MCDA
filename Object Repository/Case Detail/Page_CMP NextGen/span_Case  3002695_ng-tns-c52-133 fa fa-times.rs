@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Case  3002695_ng-tns-c52-133 fa fa-times</name>
+   <tag></tag>
+   <elementGuidId>a8830d7a-cae1-49ea-b3c5-57d1b83c10b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-tns-c52-133.fa.fa-times</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-details/div[2]/div[5]/app-case360-details-relatedcases-summary/div[2]/roots-dialog/div/div/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7d462981-38a3-4695-9b37-fee25009d685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c52-133 fa fa-times</value>
+      <webElementGuid>5c1e4516-97d7-440e-83f2-91e43a895110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-case360-details[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid pb-1 clearfix&quot;]/div[@class=&quot;clearfix mb-3&quot;]/app-case360-details-relatedcases-summary[1]/div[@class=&quot;relatedcases-dialog&quot;]/roots-dialog[@class=&quot;ng-tns-c52-133 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c52-133 col-md-10 px-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top ng-tns-c52-133 ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c52-133 ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all ng-star-inserted&quot;]/span[@class=&quot;ng-tns-c52-133 fa fa-times&quot;]</value>
+      <webElementGuid>d89a725f-c8cd-4cfc-bcd4-0efc0d6b366c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-details/div[2]/div[5]/app-case360-details-relatedcases-summary/div[2]/roots-dialog/div/div/a/span</value>
+      <webElementGuid>3ebc8a79-eed9-458f-a928-88cc5b9a020b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//roots-dialog/div/div/a/span</value>
+      <webElementGuid>29a7f3f1-687e-4433-9702-c779af2d3797</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

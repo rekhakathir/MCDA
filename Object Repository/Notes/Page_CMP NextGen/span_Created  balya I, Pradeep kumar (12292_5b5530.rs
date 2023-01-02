@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Created  balya I, Pradeep kumar (12292_5b5530</name>
+   <tag></tag>
+   <elementGuidId>1880e4ed-6bc4-4297-b837-8c2961527bfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-notes/div[3]/app-notes/div/roots-cardview/div/div/div/span/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.mb-0.ng-star-inserted > span.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>84f27502-0708-40b7-803f-59a30ae88611</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tooltipposition</name>
+      <type>Main</type>
+      <value>top</value>
+      <webElementGuid>e4616a56-d019-4bda-88ea-e7475fb84973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>2e1e26e9-ef48-4e33-a3f3-ed7e13cb4bcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Created:  balya I, Pradeep kumar (12/29/2022 02:42 PM)</value>
+      <webElementGuid>bdd7c870-66fe-457f-9fb2-981de677b143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-case360-notes[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid pb-3&quot;]/app-notes[1]/div[@class=&quot;pb-3 ng-star-inserted&quot;]/roots-cardview[1]/div[@class=&quot;roots-card-template&quot;]/div[@class=&quot;roots-card-header add-border&quot;]/div[@class=&quot;main-card-container&quot;]/span[@class=&quot;mr-3 dflex ml-auto ng-star-inserted&quot;]/label[@class=&quot;mb-0 ng-star-inserted&quot;]/span[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>04583836-5984-4e39-a7b5-6a7e0f048cf1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-notes/div[3]/app-notes/div/roots-cardview/div/div/div/span/label/span</value>
+      <webElementGuid>ba7bdcf0-619f-4bbf-ab65-7d050f94a9a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Case Facts'])[1]/following::span[2]</value>
+      <webElementGuid>f196be64-9ced-4064-a85f-1b9ee50d026e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Case Notes'])[1]/following::span[2]</value>
+      <webElementGuid>49a83685-aa9d-47d5-8479-4170b9e47d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='edit'])[1]/preceding::span[1]</value>
+      <webElementGuid>e314a687-c9ed-4d7e-96f7-c36f45b21d7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::span[2]</value>
+      <webElementGuid>ec5d48cf-0a4d-40e1-b67a-d1e18de538be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/label/span</value>
+      <webElementGuid>b973fcd3-ba45-4330-984e-edcea5208e53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Created:  balya I, Pradeep kumar (12/29/2022 02:42 PM)' or . = 'Created:  balya I, Pradeep kumar (12/29/2022 02:42 PM)')]</value>
+      <webElementGuid>c94d010a-4e56-47ff-b441-7c64afb770d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

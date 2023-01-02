@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Template Name Felony IndictmentFelony I_122dcb</name>
+   <tag></tag>
+   <elementGuidId>ab5ece9d-6528-4bc6-8a31-ea345378037a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-document-selection/roots-dialog/div/div[2]/form/app-addcase360-document/form/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f0e1f817-0f02-4993-89dd-80babf3c9e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group</value>
+      <webElementGuid>956b2c4d-e0ad-4f3b-a3ec-828513a069c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Template Name *Felony IndictmentFelony IndictmentMisd Information</value>
+      <webElementGuid>dbc1cb7d-1f2a-4b9c-b712-00d496beb7f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-case360-document-selection[@class=&quot;ng-star-inserted&quot;]/roots-dialog[@class=&quot;d-flex justify-content-center ng-tns-c52-60 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c52-60 col-sm-10 col-md-9 col-lg-8 col-xl-5 p-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c52-60&quot;]/form[@class=&quot;ng-invalid ng-tns-c52-60 ng-dirty ng-touched&quot;]/app-addcase360-document[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group&quot;]</value>
+      <webElementGuid>b07d7035-0593-4af5-a857-ff3a179517a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-document-selection/roots-dialog/div/div[2]/form/app-addcase360-document/form/div/div[3]/div</value>
+      <webElementGuid>eca54705-2de1-487a-9ee2-f70f9e638a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Charging Document'])[2]/following::div[3]</value>
+      <webElementGuid>ea7232c2-a7f2-43c1-b31c-96faf5d5cb9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::div[7]</value>
+      <webElementGuid>36c59111-2c4a-446e-976a-e6d4d890836f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[3]/div</value>
+      <webElementGuid>0de27404-2199-4a85-854f-ed653608a146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Template Name *Felony IndictmentFelony IndictmentMisd Information' or . = 'Template Name *Felony IndictmentFelony IndictmentMisd Information')]</value>
+      <webElementGuid>03e4d3cf-5fc1-4ec8-b147-ae7380c69c28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

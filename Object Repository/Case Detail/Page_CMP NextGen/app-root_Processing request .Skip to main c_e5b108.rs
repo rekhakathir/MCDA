@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>app-root_Processing request .Skip to main c_e5b108</name>
+   <tag></tag>
+   <elementGuidId>cf346562-b9cf-4614-bc62-c42f75e7096c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>app-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>app-root</value>
+      <webElementGuid>27d162b1-6a00-4f1e-93cd-59e57ee1708f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-version</name>
+      <type>Main</type>
+      <value>13.1.3</value>
+      <webElementGuid>669bed6c-aa37-43c1-acee-9c021045d843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate30Notifications216Press Enter to open the Dialog box and then use navigation keys to navigate216balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHome3002695Case # 3002695 balya, pradeep kumar, MR.I want to ...Add File LocationAdd New ParticipantAdd Participant InteractionAdd TaskAssign CaseCopy CaseExpunge/UnexpungeSchedule Grand JuryCase Snapshot Add NoteStatus:Pending Review (12/29/2022)Assigned To:DV DDAs  Next Up: N/A Case OverviewParticipants1Case Charges0Costs2DetailDocuments4Events5Evidence0File Location6Incidents1Notes2Tasks1Witness Management0Case ParticipantsView ParticipantsType or press Enter to show the case participantsDetailCase InformationDelete SaveCancelIs Sensitive CaseIntake Type *SelectFelony FelonyOffense Category SelectSelectCase Flags ChooseCourt *SelectCircuit Court Circuit CourtCourt Facility SelectSelectJudge SelectSelectCase Title *Received Date *ui-btnCase Created Date ui-btnCase Summary Case Status Summary Case Status  Case Status Date  Closing Reason  Closing Sub Reason Expansion HeaderCase Status:  Pending Review Case Status Date:  12/29/2022 Closing Reason:   Closing Sub Reason:   Expansion LinkAssigned Staff Summary Add Assigned Staff Staff Type  Assigned To  Assignment Begin  Assignment End  Participants Staff Type:  UnitAssigned To:  DV DDAsAssignment Begin:  12/29/2022Assignment End:    EditDeleteAdd Assigned Staff  Case # 3002695Staff Type*SelectDeputy District Attorney Deputy District AttorneyAssignment Begin Date*ui-btnAssigned To*SelectAbraham, Laurie Abraham, LaurieAssignment End Dateui-btnAssigned BySelectbalya I, Pradeep kumar balya I, Pradeep kumarParticipants (To assign at case level, do not select participants)ChooseSaveCancelCase Detail SummaryAdd Case Detail Case Detail Type  Case Detail  No Records found Related Cases SummaryAdd Related Cases Case  Case Title  Case Status  Relationship Reason   No Records found Case CaptionParty 1 EditDescription: Type:  Party 2 EditDescription: Type:  KeywordsAdd Keywords Showing 1 - 0of 0 10 10left PaginationRight Pagination Keywords Expansion Header No Records found  Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.</value>
+      <webElementGuid>47a39749-d923-47c3-9bf9-58e98e617012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]</value>
+      <webElementGuid>443819ef-df0e-4b8b-8ea2-9f5b048405e6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-root</value>
+      <webElementGuid>8be9e167-12b2-47ce-8b90-e9c23964553e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//app-root[(text() = 'Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate30Notifications216Press Enter to open the Dialog box and then use navigation keys to navigate216balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHome3002695Case # 3002695 balya, pradeep kumar, MR.I want to ...Add File LocationAdd New ParticipantAdd Participant InteractionAdd TaskAssign CaseCopy CaseExpunge/UnexpungeSchedule Grand JuryCase Snapshot Add NoteStatus:Pending Review (12/29/2022)Assigned To:DV DDAs  Next Up: N/A Case OverviewParticipants1Case Charges0Costs2DetailDocuments4Events5Evidence0File Location6Incidents1Notes2Tasks1Witness Management0Case ParticipantsView ParticipantsType or press Enter to show the case participantsDetailCase InformationDelete SaveCancelIs Sensitive CaseIntake Type *SelectFelony FelonyOffense Category SelectSelectCase Flags ChooseCourt *SelectCircuit Court Circuit CourtCourt Facility SelectSelectJudge SelectSelectCase Title *Received Date *ui-btnCase Created Date ui-btnCase Summary Case Status Summary Case Status  Case Status Date  Closing Reason  Closing Sub Reason Expansion HeaderCase Status:  Pending Review Case Status Date:  12/29/2022 Closing Reason:   Closing Sub Reason:   Expansion LinkAssigned Staff Summary Add Assigned Staff Staff Type  Assigned To  Assignment Begin  Assignment End  Participants Staff Type:  UnitAssigned To:  DV DDAsAssignment Begin:  12/29/2022Assignment End:    EditDeleteAdd Assigned Staff  Case # 3002695Staff Type*SelectDeputy District Attorney Deputy District AttorneyAssignment Begin Date*ui-btnAssigned To*SelectAbraham, Laurie Abraham, LaurieAssignment End Dateui-btnAssigned BySelectbalya I, Pradeep kumar balya I, Pradeep kumarParticipants (To assign at case level, do not select participants)ChooseSaveCancelCase Detail SummaryAdd Case Detail Case Detail Type  Case Detail  No Records found Related Cases SummaryAdd Related Cases Case  Case Title  Case Status  Relationship Reason   No Records found Case CaptionParty 1 EditDescription: Type:  Party 2 EditDescription: Type:  KeywordsAdd Keywords Showing 1 - 0of 0 10 10left PaginationRight Pagination Keywords Expansion Header No Records found  Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.' or . = 'Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate30Notifications216Press Enter to open the Dialog box and then use navigation keys to navigate216balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHome3002695Case # 3002695 balya, pradeep kumar, MR.I want to ...Add File LocationAdd New ParticipantAdd Participant InteractionAdd TaskAssign CaseCopy CaseExpunge/UnexpungeSchedule Grand JuryCase Snapshot Add NoteStatus:Pending Review (12/29/2022)Assigned To:DV DDAs  Next Up: N/A Case OverviewParticipants1Case Charges0Costs2DetailDocuments4Events5Evidence0File Location6Incidents1Notes2Tasks1Witness Management0Case ParticipantsView ParticipantsType or press Enter to show the case participantsDetailCase InformationDelete SaveCancelIs Sensitive CaseIntake Type *SelectFelony FelonyOffense Category SelectSelectCase Flags ChooseCourt *SelectCircuit Court Circuit CourtCourt Facility SelectSelectJudge SelectSelectCase Title *Received Date *ui-btnCase Created Date ui-btnCase Summary Case Status Summary Case Status  Case Status Date  Closing Reason  Closing Sub Reason Expansion HeaderCase Status:  Pending Review Case Status Date:  12/29/2022 Closing Reason:   Closing Sub Reason:   Expansion LinkAssigned Staff Summary Add Assigned Staff Staff Type  Assigned To  Assignment Begin  Assignment End  Participants Staff Type:  UnitAssigned To:  DV DDAsAssignment Begin:  12/29/2022Assignment End:    EditDeleteAdd Assigned Staff  Case # 3002695Staff Type*SelectDeputy District Attorney Deputy District AttorneyAssignment Begin Date*ui-btnAssigned To*SelectAbraham, Laurie Abraham, LaurieAssignment End Dateui-btnAssigned BySelectbalya I, Pradeep kumar balya I, Pradeep kumarParticipants (To assign at case level, do not select participants)ChooseSaveCancelCase Detail SummaryAdd Case Detail Case Detail Type  Case Detail  No Records found Related Cases SummaryAdd Related Cases Case  Case Title  Case Status  Relationship Reason   No Records found Case CaptionParty 1 EditDescription: Type:  Party 2 EditDescription: Type:  KeywordsAdd Keywords Showing 1 - 0of 0 10 10left PaginationRight Pagination Keywords Expansion Header No Records found  Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.')]</value>
+      <webElementGuid>0dcd7aad-ef59-4b59-85ce-7f452500f401</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

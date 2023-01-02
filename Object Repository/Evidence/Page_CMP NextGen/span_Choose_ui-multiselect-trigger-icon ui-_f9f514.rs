@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Choose_ui-multiselect-trigger-icon ui-_f9f514</name>
+   <tag></tag>
+   <elementGuidId>5b2cd6a8-975c-4d80-b0e0-cae972342aa8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-evidence/div/app-case360-evidence-details/div/form/div[3]/app-evidence-test-action-summary/roots-dialog/div/div[2]/roots-scrollpanel/div/div/div/form/div/div[4]/div/roots-multiselect/div/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-multiselect-trigger-icon.ui-clickable.ng-tns-c54-312.fas.fa-angle-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c4be76e4-8c78-4224-b78e-7e0f1b3719dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-multiselect-trigger-icon ui-clickable ng-tns-c54-312 fas fa-angle-down</value>
+      <webElementGuid>f645efa3-bdf9-4011-a8b9-163585452b43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-case360-evidence[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/app-case360-evidence-details[1]/div[@class=&quot;addevidence-content&quot;]/form[@class=&quot;ng-valid ng-touched ng-dirty&quot;]/div[@class=&quot;mt-2 ng-star-inserted&quot;]/app-evidence-test-action-summary[1]/roots-dialog[@class=&quot;ng-tns-c52-301 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c52-301 col-xl-6 col-lg-8 col-md-8 px-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c52-301&quot;]/roots-scrollpanel[@class=&quot;ng-tns-c52-301&quot;]/div[@class=&quot;ui-scrollpanel ui-widget ui-widget-content ui-corner-all&quot;]/div[@class=&quot;ui-scrollpanel-wrapper&quot;]/div[@class=&quot;ui-scrollpanel-content&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-4 ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/roots-multiselect[@class=&quot;roots-form-control ng-tns-c54-312 ui-inputwrapper-filled ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c54-312 ui-multiselect ui-widget ui-state-default ui-corner-all&quot;]/div[@class=&quot;ng-tns-c54-312 ui-multiselect-trigger ui-state-default ui-corner-right&quot;]/span[@class=&quot;ui-multiselect-trigger-icon ui-clickable ng-tns-c54-312 fas fa-angle-down&quot;]</value>
+      <webElementGuid>46233874-4c45-492b-a32b-4144784957f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-evidence/div/app-case360-evidence-details/div/form/div[3]/app-evidence-test-action-summary/roots-dialog/div/div[2]/roots-scrollpanel/div/div/div/form/div/div[4]/div/roots-multiselect/div/div[3]/span</value>
+      <webElementGuid>d3240fb8-3068-48ff-bad9-613b139c981a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[4]/div/roots-multiselect/div/div[3]/span</value>
+      <webElementGuid>62f1ba00-8260-47cd-ba48-c3ffbf226114</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Choose_ui-chkbox-box ui-widget ui-corne_d11469</name>
+   <tag></tag>
+   <elementGuidId>cddb7b9f-41f5-4327-85c9-bec4e4723416</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-chkbox-box.ui-widget.ui-corner-all.ui-state-default.ng-tns-c54-95</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-file-tracking/roots-dialog/div/div[2]/app-case360-add-file-tracking/form/div/div/div[3]/roots-multiselect/div/div[4]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d0f24f4e-007f-4404-a19c-5a0fd0670dc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-chkbox-box ui-widget ui-corner-all ui-state-default ng-tns-c54-95</value>
+      <webElementGuid>06a13fd9-1ad7-487d-94e6-aacd8cebc6b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-case360-file-tracking[@class=&quot;ng-star-inserted&quot;]/roots-dialog[@class=&quot;ng-tns-c52-91 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c52-91 col-xl-8 col-lg-8 col-md-8 px-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c52-91&quot;]/app-case360-add-file-tracking[@class=&quot;ng-tns-c52-91 ng-star-inserted&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 form-group ng-star-inserted&quot;]/roots-multiselect[@class=&quot;roots-form-control ng-tns-c54-95 ui-inputwrapper-filled ng-pristine ng-valid ng-star-inserted ng-touched&quot;]/div[@class=&quot;ng-tns-c54-95 ui-multiselect ui-widget ui-state-default ui-corner-all ui-multiselect-open&quot;]/div[@class=&quot;ng-trigger ng-trigger-overlayAnimation ng-tns-c54-95 ui-multiselect-panel ui-widget ui-widget-content ui-corner-all ui-shadow ng-star-inserted&quot;]/div[@class=&quot;ui-widget-header ui-corner-all ui-multiselect-header ui-helper-clearfix ng-tns-c54-95 ng-star-inserted&quot;]/div[@class=&quot;ui-chkbox ui-widget ng-tns-c54-95 ng-star-inserted&quot;]/div[@class=&quot;ui-chkbox-box ui-widget ui-corner-all ui-state-default ng-tns-c54-95&quot;]</value>
+      <webElementGuid>961f5e9e-5d18-4c8a-9bca-0a5e77a57d32</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-file-tracking/roots-dialog/div/div[2]/app-case360-add-file-tracking/form/div/div/div[3]/roots-multiselect/div/div[4]/div[2]/div/div[2]</value>
+      <webElementGuid>3f4a08df-c8fa-4c47-8358-cf335d643e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose'])[2]/following::div[7]</value>
+      <webElementGuid>113db8c4-9f0c-4b53-b176-8f312523748e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participants'])[3]/following::div[10]</value>
+      <webElementGuid>189efdfd-5082-4e33-8c3a-f9b72fc16741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Defendant-1-balya MR., pradeep kumar'])[1]/preceding::div[4]</value>
+      <webElementGuid>71783829-ae7a-452a-8922-b8b3edd0e8df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archive Control #'])[1]/preceding::div[6]</value>
+      <webElementGuid>2c65d493-75c5-441f-a22d-f9e29dcfbac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[2]</value>
+      <webElementGuid>4ae06c16-7855-48ef-bf75-10b97c774e41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

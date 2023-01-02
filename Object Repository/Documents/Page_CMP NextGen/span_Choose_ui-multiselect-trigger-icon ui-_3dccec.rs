@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Choose_ui-multiselect-trigger-icon ui-_3dccec</name>
+   <tag></tag>
+   <elementGuidId>b4aedfb8-4309-4d0a-80fc-06566dc9e84c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-multiselect-trigger-icon.ui-clickable.ng-tns-c54-73.fas.fa-angle-down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-document-selection/roots-dialog/div/div[2]/form/app-addcase360-document/form/div/div[3]/div/span[2]/roots-multiselect/div/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d1b221be-40ae-4e4e-a151-911dd5f57cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-multiselect-trigger-icon ui-clickable ng-tns-c54-73 fas fa-angle-down</value>
+      <webElementGuid>170a23d5-58cc-4353-b3c8-5a7a8d32da06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-case360-document-selection[@class=&quot;ng-star-inserted&quot;]/roots-dialog[@class=&quot;d-flex justify-content-center ng-tns-c52-60 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c52-60 col-sm-10 col-md-9 col-lg-8 col-xl-5 p-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c52-60&quot;]/form[@class=&quot;ng-invalid ng-tns-c52-60 ng-dirty ng-touched&quot;]/app-addcase360-document[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-invalid ng-touched ng-dirty&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;form-group&quot;]/span[2]/roots-multiselect[@class=&quot;roots-form-control ng-tns-c54-73 ui-inputwrapper-filled ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c54-73 ui-multiselect ui-widget ui-state-default ui-corner-all&quot;]/div[@class=&quot;ng-tns-c54-73 ui-multiselect-trigger ui-state-default ui-corner-right&quot;]/span[@class=&quot;ui-multiselect-trigger-icon ui-clickable ng-tns-c54-73 fas fa-angle-down&quot;]</value>
+      <webElementGuid>736cd953-ada7-456e-a1c2-7d8133102a79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-document-selection/roots-dialog/div/div[2]/form/app-addcase360-document/form/div/div[3]/div/span[2]/roots-multiselect/div/div[3]/span</value>
+      <webElementGuid>951d0e44-2ff5-4878-8aa5-f67cafa90fd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/roots-multiselect/div/div[3]/span</value>
+      <webElementGuid>f64b311a-4618-4503-9f31-7d2767f7a2d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

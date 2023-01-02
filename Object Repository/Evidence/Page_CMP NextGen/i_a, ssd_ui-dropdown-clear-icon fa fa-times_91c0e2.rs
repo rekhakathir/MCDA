@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_a, ssd_ui-dropdown-clear-icon fa fa-times_91c0e2</name>
+   <tag></tag>
+   <elementGuidId>c8423793-501c-428b-b67f-1e50815228f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-evidence/div/app-case360-evidence-details/div/form/div[2]/div[13]/div/div/roots-dropdown/div/div[3]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.ui-dropdown-clear-icon.fa.fa-times.ng-tns-c50-278.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3f5e319e-d638-4904-9c7e-d6975c57ab68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dropdown-clear-icon fa fa-times ng-tns-c50-278 ng-star-inserted</value>
+      <webElementGuid>742a08cb-6648-44fd-9db6-87fbaf4cd954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main&quot;)/div[@class=&quot;bg-white min-height-600&quot;]/div[@class=&quot;bg-E3E3E3&quot;]/app-case360[@class=&quot;ng-star-inserted&quot;]/div[2]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-9 col-xl-9 mb-3 mb-lg-0 pl-lg-0 pl-xl-0&quot;]/div[@class=&quot;clearfix h-100 bg-white&quot;]/app-case360-evidence[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;container-fluid ng-star-inserted&quot;]/app-case360-evidence-details[1]/div[@class=&quot;addevidence-content&quot;]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;mt-2&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;form-group&quot;]/roots-dropdown[@class=&quot;roots-form-control ng-tns-c50-278 ng-valid ng-star-inserted ng-touched ui-inputwrapper-filled ng-dirty&quot;]/div[@class=&quot;ng-tns-c50-278 ui-dropdown ui-widget ui-state-default ui-corner-all ui-helper-clearfix ui-dropdown-clearable&quot;]/div[@class=&quot;ui-dropdown-label-container ng-tns-c50-278&quot;]/i[@class=&quot;ui-dropdown-clear-icon fa fa-times ng-tns-c50-278 ng-star-inserted&quot;]</value>
+      <webElementGuid>e1a7a743-1af7-4a86-bb39-22cd3532b847</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='main']/div/div/app-case360/div[2]/div/div/div[2]/div/app-case360-evidence/div/app-case360-evidence-details/div/form/div[2]/div[13]/div/div/roots-dropdown/div/div[3]/i</value>
+      <webElementGuid>8007080d-393e-41c3-92d8-2ae4f68d413e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/roots-dropdown/div/div[3]/i</value>
+      <webElementGuid>bfd6fec9-e261-4ac2-8105-56ef23d8ec30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

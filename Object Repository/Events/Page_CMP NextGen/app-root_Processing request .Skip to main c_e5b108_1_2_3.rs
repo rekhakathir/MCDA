@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>app-root_Processing request .Skip to main c_e5b108_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>2fea1bd4-20b6-4f5d-a341-04a3b571d364</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>app-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>app-root</value>
+      <webElementGuid>10deefa7-db67-46a4-8943-480f379b1631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-version</name>
+      <type>Main</type>
+      <value>13.1.3</value>
+      <webElementGuid>c41d7385-8245-4cb0-a02f-5a0b10065897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate30Notifications216Press Enter to open the Dialog box and then use navigation keys to navigate216balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHome3002695Case # 3002695 balya, pradeep kumar, MR.I want to ...Add File LocationAdd New ParticipantAdd Participant InteractionAdd TaskAssign CaseCopy CaseExpunge/UnexpungeSchedule Grand JuryCase Snapshot Add NoteStatus:Pending Review (12/29/2022)Assigned To:DV DDAs  Abraham, Laurie Next Up:Issuing Decision for Custody Case 12/29/2022Case OverviewParticipants1Case Charges0Costs2DetailDocuments4Events3Evidence0File Location8Incidents1Notes2Tasks1Witness Management0Case ParticipantsView ParticipantsType or press Enter to show the case participantsAdd EventEvent Category *SelectCourt CourtEvent *SelectArraignment ArraignmentParticipants *Defendant-1-balya MR., pradeep kumarEvent Date *ui-btnEvent Time *ui-btnCourtSelectCircuit Court Circuit CourtCourt FacilitySelectJustice Center Justice CenterCourt RoomSelectJC1 JC1Event GroupSelectDV DDAs DV DDAsEvent AttorneySelectAbraham, Laurie Abraham, Laurie Event Staff SelectADAMS, DIBA ADAMS, DIBAJudgeSelectA Docket, FNU A Docket, FNUOpposing AttorneyChoose   SearchSearchOther Involved PersonFiled Date ui-btnDuration (in Minutes)Court Reporter/TapeNotesEvents Results Add Event ResultEvent ResultDateParticipantEvent Result :  Cancelled Date :  01/01/2023 Participant :  Defendant-1-balya MR., pradeep kumar, EditDeleteEvents Details Add Event DetailsEvent Detail TypeEvent Detail No Records found Attachments Add Attachments  Doc Type   Document Title   Uploaded   Status  Doc Type:  Police Report  Document Title:  Events Documents  Uploaded:  01/01/2023 07:33 PM Status:  Pending  Expansion LinkSave      Cancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.</value>
+      <webElementGuid>1e399bab-bf3b-4969-bdd6-dbf26f306a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]</value>
+      <webElementGuid>9bf09b8c-e81f-48a1-b0c0-a7e0bd5d9850</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-root</value>
+      <webElementGuid>b0a21353-d45e-4de1-9d7a-8d347b305c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//app-root[(text() = 'Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate30Notifications216Press Enter to open the Dialog box and then use navigation keys to navigate216balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHome3002695Case # 3002695 balya, pradeep kumar, MR.I want to ...Add File LocationAdd New ParticipantAdd Participant InteractionAdd TaskAssign CaseCopy CaseExpunge/UnexpungeSchedule Grand JuryCase Snapshot Add NoteStatus:Pending Review (12/29/2022)Assigned To:DV DDAs  Abraham, Laurie Next Up:Issuing Decision for Custody Case 12/29/2022Case OverviewParticipants1Case Charges0Costs2DetailDocuments4Events3Evidence0File Location8Incidents1Notes2Tasks1Witness Management0Case ParticipantsView ParticipantsType or press Enter to show the case participantsAdd EventEvent Category *SelectCourt CourtEvent *SelectArraignment ArraignmentParticipants *Defendant-1-balya MR., pradeep kumarEvent Date *ui-btnEvent Time *ui-btnCourtSelectCircuit Court Circuit CourtCourt FacilitySelectJustice Center Justice CenterCourt RoomSelectJC1 JC1Event GroupSelectDV DDAs DV DDAsEvent AttorneySelectAbraham, Laurie Abraham, Laurie Event Staff SelectADAMS, DIBA ADAMS, DIBAJudgeSelectA Docket, FNU A Docket, FNUOpposing AttorneyChoose   SearchSearchOther Involved PersonFiled Date ui-btnDuration (in Minutes)Court Reporter/TapeNotesEvents Results Add Event ResultEvent ResultDateParticipantEvent Result :  Cancelled Date :  01/01/2023 Participant :  Defendant-1-balya MR., pradeep kumar, EditDeleteEvents Details Add Event DetailsEvent Detail TypeEvent Detail No Records found Attachments Add Attachments  Doc Type   Document Title   Uploaded   Status  Doc Type:  Police Report  Document Title:  Events Documents  Uploaded:  01/01/2023 07:33 PM Status:  Pending  Expansion LinkSave      Cancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.' or . = 'Processing request ...Skip to main contentMCDAVersion 9.0.0Menu Manage  Administration My WorkPress Enter to open the Dialog box and then use navigation keys to navigate30Notifications216Press Enter to open the Dialog box and then use navigation keys to navigate216balya I, Pradeep kumarPress Enter to open the Dialog box and then use navigation keys to navigate balya I, Pradeep kumar Name  Case #  LEA #  Court File #  Case Title  Case Keyword  Name  Name (Soundex)  Person SID #  Person ID  Physical File #  Note  All label for searchText No Results FoundInclude Inactive Case TypesInclude Inactive ValuesInclude Temp Cases Case Type Choose Item SelectSelect Operator SelectSelect Value(s)  Hidden TextAddNo Filters AppliedCancelResetSearchSaved SearchesQuick Searchlabel for searchTextAdvance FilterHome3002695Case # 3002695 balya, pradeep kumar, MR.I want to ...Add File LocationAdd New ParticipantAdd Participant InteractionAdd TaskAssign CaseCopy CaseExpunge/UnexpungeSchedule Grand JuryCase Snapshot Add NoteStatus:Pending Review (12/29/2022)Assigned To:DV DDAs  Abraham, Laurie Next Up:Issuing Decision for Custody Case 12/29/2022Case OverviewParticipants1Case Charges0Costs2DetailDocuments4Events3Evidence0File Location8Incidents1Notes2Tasks1Witness Management0Case ParticipantsView ParticipantsType or press Enter to show the case participantsAdd EventEvent Category *SelectCourt CourtEvent *SelectArraignment ArraignmentParticipants *Defendant-1-balya MR., pradeep kumarEvent Date *ui-btnEvent Time *ui-btnCourtSelectCircuit Court Circuit CourtCourt FacilitySelectJustice Center Justice CenterCourt RoomSelectJC1 JC1Event GroupSelectDV DDAs DV DDAsEvent AttorneySelectAbraham, Laurie Abraham, Laurie Event Staff SelectADAMS, DIBA ADAMS, DIBAJudgeSelectA Docket, FNU A Docket, FNUOpposing AttorneyChoose   SearchSearchOther Involved PersonFiled Date ui-btnDuration (in Minutes)Court Reporter/TapeNotesEvents Results Add Event ResultEvent ResultDateParticipantEvent Result :  Cancelled Date :  01/01/2023 Participant :  Defendant-1-balya MR., pradeep kumar, EditDeleteEvents Details Add Event DetailsEvent Detail TypeEvent Detail No Records found Attachments Add Attachments  Doc Type   Document Title   Uploaded   Status  Doc Type:  Police Report  Document Title:  Events Documents  Uploaded:  01/01/2023 07:33 PM Status:  Pending  Expansion LinkSave      Cancel Company Overview  Leadership  Policies  Services  Industries  Partners COPYRIGHT 2020 HTC Global Services.')]</value>
+      <webElementGuid>df9999fd-cd12-4e69-99d4-f0a166485dd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add</name>
+   <tag></tag>
+   <elementGuidId>cb023382-7b94-4907-8cfb-781bf1099f2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.m-0.p-0.text-primary.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui-panel-19-label']/div/div[3]/div[2]/roots-table/div/div/table/tbody/tr/td[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d071ee45-15eb-4215-94c6-cd14e6afb84d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn m-0 p-0 text-primary ng-star-inserted</value>
+      <webElementGuid>06b78796-d620-438c-9cba-4dd3d50fa80d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>835dde20-3e3b-47df-8358-3a1efd193f53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-panel-19&quot;)/div[@id=&quot;ui-panel-19-label&quot;]/div[@class=&quot;ui-panel-content ui-widget-content ng-tns-c76-154&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;app-tabview mb-2&quot;]/roots-table[1]/div[@class=&quot;ui-table ui-widget ui-table-hoverable-rows&quot;]/div[@class=&quot;ui-table-wrapper ng-star-inserted&quot;]/table[1]/tbody[@class=&quot;ui-table-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;text-right&quot;]/button[@class=&quot;btn m-0 p-0 text-primary ng-star-inserted&quot;]</value>
+      <webElementGuid>020ac409-9720-4f5f-b685-78cca5bf2813</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui-panel-19-label']/div/div[3]/div[2]/roots-table/div/div/table/tbody/tr/td[2]/button</value>
+      <webElementGuid>9f6604a9-4e84-4533-af43-7425275a0e80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Label to Add'])[1]/following::button[1]</value>
+      <webElementGuid>ee190b1d-7891-46d7-b61a-dc4abde5074d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keywords'])[3]/following::button[1]</value>
+      <webElementGuid>71bcd48e-69b3-4498-bd09-4da9476f0572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[3]/preceding::button[1]</value>
+      <webElementGuid>6a7c6c83-cb99-4d92-b40e-9cab3fdd6490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[1]/preceding::button[2]</value>
+      <webElementGuid>b72d410e-a75b-4948-806c-6951c15ed986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/button</value>
+      <webElementGuid>f6c355f0-9ef8-4469-9439-0c5a34a3d958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>f27a80e5-5722-43d7-8030-b80cb641b68b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

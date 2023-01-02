@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id=&quot;test&quot;]/div/div/form/div/div/div[2]/div[3]/app-attachment/div/roots-dialog/div/div[2]/app-add-dms-attachment-form/form/div/div[1]/div[5]/div/div[1]/roots-fileupload/span/input</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag File to Upload'])[1]/preceding::span[3]</value>
       </entry>
       <entry>
          <key>IMAGE</key>
@@ -16,8 +16,12 @@
          <key>CSS</key>
          <value>span.btn-primary.ui-button.ui-fileupload-choose.ui-widget.ui-state-default.ui-corner-all.ui-button-text-icon-left.ng-star-inserted</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>(//span[(text() = 'Choose File' or . = 'Choose File')])[2]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -25,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>a692540d-921f-4406-a6ba-dddf5fc6f099</webElementGuid>
+      <webElementGuid>a6f3ea83-343e-4c02-82c2-8a72d7b95873</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -33,23 +37,23 @@
       <name>class</name>
       <type>Main</type>
       <value>btn-primary ui-button ui-fileupload-choose ui-widget ui-state-default ui-corner-all ui-button-text-icon-left ng-star-inserted</value>
-      <webElementGuid>2a587736-9f15-4f1f-ab33-16c1e2ccaeed</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>Choose File</value>
-      <webElementGuid>e852fe70-3006-4b9c-bc1c-e93a8bda9ffb</webElementGuid>
+      <webElementGuid>e3302464-6197-4b2f-9af6-06b3c3be2af7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose File</value>
+      <webElementGuid>5bb642e7-cbe8-41b8-92d2-eaef1d7c40e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;test&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;form-container addForm case-intake&quot;]/div[@class=&quot;incident-tab&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/app-attachment[1]/div[@class=&quot;mt-2&quot;]/roots-dialog[@class=&quot;ng-tns-c50-28 ng-star-inserted&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c50-28 dialog-common col-md-6 p-0 ui-dialog ui-widget ui-widget-content ui-corner-all ui-shadow ui-dialog-resizable ng-star-inserted&quot;]/div[@class=&quot;ui-dialog-content ui-widget-content ng-tns-c50-28&quot;]/app-add-dms-attachment-form[@class=&quot;ng-tns-c50-28 ng-star-inserted&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/div[@class=&quot;form-group&quot;]/div[1]/roots-fileupload[@class=&quot;roots-form-control basicUpload&quot;]/span[@class=&quot;btn-primary ui-button ui-fileupload-choose ui-widget ui-state-default ui-corner-all ui-button-text-icon-left ng-star-inserted&quot;]</value>
-      <webElementGuid>e1de6ba6-e944-4020-8dca-b11b5a9e2795</webElementGuid>
+      <value>(//span[(text() = 'Choose File' or . = 'Choose File')])[2]</value>
+      <webElementGuid>1a6a67af-f688-4768-813a-ae488a13fa21</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='test']/div/div/form/div/div/div[2]/div[3]/app-attachment/div/roots-dialog/div/div[2]/app-add-dms-attachment-form/form/div/div/div[5]/div/div/roots-fileupload/span</value>
-      <webElementGuid>d692c832-7c1a-4e04-a165-90bbfe9cf397</webElementGuid>
+      <webElementGuid>4872140f-d717-4bf6-af13-ba1308f2912b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::span[1]</value>
-      <webElementGuid>4ff96cdc-7d98-4812-965b-367a4ed44efb</webElementGuid>
+      <webElementGuid>3630e248-b653-4153-9194-470deccd5c49</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag File to Upload'])[1]/preceding::span[3]</value>
-      <webElementGuid>7092bf60-3cde-419d-9c76-7059960e19d5</webElementGuid>
+      <webElementGuid>9c2b72d5-3181-4c66-a1fa-8f3464a07980</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//roots-fileupload/span</value>
-      <webElementGuid>deb60480-bbed-456c-b211-5826b36464ef</webElementGuid>
+      <webElementGuid>8284d63b-ff26-4a72-baf7-a165c8c753e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Choose File' or . = 'Choose File')]</value>
-      <webElementGuid>3dc8b772-fb9f-4bee-a322-05bfc8d119a7</webElementGuid>
+      <webElementGuid>d5046368-74da-42b9-8328-6d039568801b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

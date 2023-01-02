@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='ui-panel-18']/div/roots-header/div</value>
+         <value>//*[(text() = 'Case Summary' or . = 'Case Summary')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>94925b96-0fba-4b50-952f-81d998dde2c1</webElementGuid>
+      <webElementGuid>22a6b99a-d1a0-4320-a0cc-7aaf81546e0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>font-weight-bold text-black</value>
-      <webElementGuid>2ed521ac-8b1b-42ef-83cd-ad767f306f9c</webElementGuid>
+      <webElementGuid>a59b9195-f507-4c2a-9a65-e29a1a6ae555</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Case Summary</value>
-      <webElementGuid>59a76608-75e6-4354-b8c6-d247f24223af</webElementGuid>
+      <webElementGuid>1f7e8ec6-f9cf-423b-9c20-555890cfd229</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;ui-panel-18&quot;)/div[@class=&quot;ng-tns-c76-83 ui-panel-titlebar ui-widget-header ui-helper-clearfix ui-corner-all ng-star-inserted&quot;]/roots-header[@class=&quot;w-100 ng-tns-c76-83&quot;]/div[@class=&quot;font-weight-bold text-black&quot;]</value>
-      <webElementGuid>3cffe1b8-b964-4b07-953c-1d62788bfb79</webElementGuid>
+      <webElementGuid>21856929-ebe7-4933-93c6-35f1c9267338</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='ui-panel-18']/div/roots-header/div</value>
-      <webElementGuid>f9e34789-a11b-49b2-b8e7-ee92d9984c2b</webElementGuid>
+      <webElementGuid>65af1122-229e-4c9d-89be-5a3fd4f219b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[9]/following::div[5]</value>
-      <webElementGuid>3cb7d6d7-dfcb-4cdd-b4f8-9953ebb932c5</webElementGuid>
+      <webElementGuid>2c6747f3-a85a-4543-87ef-00a1b9a68f6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Result:'])[1]/following::div[5]</value>
-      <webElementGuid>af4c9444-4859-45a7-88cc-6227b15d87f8</webElementGuid>
+      <webElementGuid>29fa5f47-9b15-453f-9acb-80aca8788012</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='N/A'])[10]/preceding::div[1]</value>
-      <webElementGuid>740f8c59-dbe4-4a97-8023-661b289d5ca0</webElementGuid>
+      <webElementGuid>0733f328-9d5f-41a2-90ca-2f6fb48496a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Participants'])[2]/preceding::div[4]</value>
-      <webElementGuid>175547ec-f210-4284-a889-23c1f99b636b</webElementGuid>
+      <webElementGuid>5e18156e-bee3-4d03-8ce1-85ad5f65fdd5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Case Summary']/parent::*</value>
-      <webElementGuid>56a4c7a6-cc6d-45e0-8ea2-9594cc739671</webElementGuid>
+      <webElementGuid>53afa387-b408-4d1b-8f83-97d6f1bef91d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/roots-panel/div/div/roots-header/div</value>
-      <webElementGuid>21fef134-b6a7-4a10-a097-3676dd1b9125</webElementGuid>
+      <webElementGuid>bc302afd-709a-47bd-80e0-0b662300eb86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Case Summary' or . = 'Case Summary')]</value>
-      <webElementGuid>f9b5a248-d067-43e4-b2a7-c500d5a6e61c</webElementGuid>
+      <webElementGuid>2a00152d-07e1-40cc-9e21-959bc0dd207e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

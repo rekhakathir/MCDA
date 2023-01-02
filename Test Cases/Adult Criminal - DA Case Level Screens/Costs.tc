@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Creating Adult Criminal - Cost</description>
+   <name>Costs</name>
+   <tag>@ Costs</tag>
+   <comment></comment>
+   <testCaseGuid>bab2b74f-aa09-43b4-a6f7-5b3978585329</testCaseGuid>
+</TestCaseEntity>
